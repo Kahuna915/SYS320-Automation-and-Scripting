@@ -20,9 +20,9 @@ def ssh_fail(filename, searchTerms):
         ##print(found)
         #Remove duplicates
         # and convert the list to a dictionary
-        hosts = (set(found))
+        #hosts = (set(found))
         # print(hosts)
-        for eachhost in hosts:
+        for eachhost in found:
             print(eachhost)
 
 
