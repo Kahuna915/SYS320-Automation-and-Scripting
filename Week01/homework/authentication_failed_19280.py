@@ -2,7 +2,7 @@ import sorter
 import importlib
 importlib.reload(sorter)
 # SSH authentication failures
-def ssh_fail(filename, searchTerms):
+def ssh_fail19280(filename, searchTerms):
 
         # call syslogcheck and return the result
         is_found = sorter._syslog(filename,searchTerms)
@@ -15,9 +15,11 @@ def ssh_fail(filename, searchTerms):
             # split the results
             sp_results = eachFound.split(" ")
             # Append the split value to the found list
-            found.append(sp_results[4])
+            found.append(sp_results[0]), found.append(sp_results[4])
+        ##print(found)
         #Remove duplicates
         # and convert the list to a dictionary
         hosts = (set(found))
+        #print(hosts)
         for eachhost in hosts:
-            print(eachhost)
+            print(eachhost, end=' ')
