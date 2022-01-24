@@ -1,11 +1,11 @@
 import sorterChecker
 import importlib
-importlib.reload(sorter)
+importlib.reload(sorterChecker)
 # SSH authentication failures
 def SU_opened(filename, searchTerms):
 
         # call syslogcheck and return the result
-        is_found = sorter._syslog(filename,searchTerms)
+        is_found = sorterChecker._syslog(filename,searchTerms)
 
         # Found list
         found = []
