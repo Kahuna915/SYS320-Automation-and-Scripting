@@ -1,4 +1,4 @@
-import sorter
+import sorterChecker
 import importlib
 importlib.reload(sorter)
 # SSH authentication failures
