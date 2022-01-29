@@ -1,0 +1,13 @@
+---
+apache:
+  php: "[GET|POST].*/wordpress/wp-login.php.*,[GET|POST].*/mediawiki/index.php.* "
+  cgi: "[GET|POST].*/cgi-bin/test-cgi.*,[GET|POST].*/cgi-bin/htsearch?.*"
+  exe: "QQ.*.exe.*bytes sent.*bytes received.*"
+  proxyopened: "QQ.*.exe.*open through proxy.*"
+  proxylogsfromQQ: "QQ.*.exe.*proxy.*"
+
+# [07.27 10:05:03] QQProtectUpd.exe - qdun-data.qq.com:443 close, 261 bytes sent, 70 bytes received, lifetime <1 sec
+# [10.30 17:46:23] QQ.exe - 183.60.49.182:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+#---
+# mail:
+ # relay =
