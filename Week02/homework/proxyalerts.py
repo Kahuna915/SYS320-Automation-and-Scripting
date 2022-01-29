@@ -15,7 +15,7 @@ def proxyalert(filename, service, term):
             # split the results
             sp_results = eachFound.split(" ")
             # Append the split value to the found list
-            found.append(sp_results[1] + " " + sp_results[2] + " " + sp_results[3]+ " " + sp_results[4] + " " + sp_results[5] + " " + sp_results[6] + " " + sp_results[7])
+            found.append(sp_results[0] + " | " + sp_results[7] + " | " + sp_results[3]+ " " + sp_results[4] + " " + sp_results[5] + ": " + sp_results[6] + " | " + sp_results[2])
 
         #Remove duplicates
         # and convert the list to a dictionary
