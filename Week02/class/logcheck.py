@@ -29,7 +29,6 @@ def logs(filenane,service, term):
 
     # Loop through the list returned. Each element is a line from the smallSyslog file
     for line in contents:
-
         # Loop through the keywords
         for eachKeyword in listOfKeywords:
 
