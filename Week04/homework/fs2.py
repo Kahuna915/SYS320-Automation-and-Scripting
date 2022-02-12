@@ -1,90 +1,73 @@
-# File to traverse a given directory and it's subdirs and retrieve all the files.
+import re, yaml, os, argparse , sys
 
-import os, argparse, yaml
-
-# Parser
+# Traverse a directory and search files for key attacks
+# Open yaml file
+try:
+    with open('attacks.yaml','r') as yf:
+        attacks = yaml.safe_load(yf)
+except EnvironmentError as e:
+    print(e.strerror)
 parser = argparse.ArgumentParser(
-    description="Traverses a directory and builds a forensic body file"
-                "You can use search terms with the associated yaml playbook",
+    description="Traverses a directory and builds a forensic body file",
     epilog="Developed by Noah Stiles, 20221002"
-)
+    )
 # Add argument to pass to the fs.py program
 parser.add_argument("-d", "--directory", required="True", help="Directory that you want to traverse.")
-parser.add_argument("-b, "--" ")
-
+parser.add_argument("-s", "--service", required="True", help="Yaml book you want to use to search the log files.")
+parser.add_argument("-a", "--attack", required="True", help="Attack you would to search for.")
 # Parse the arguments
 args = parser.parse_args()
 rootdir = args.directory
-
-
+service = args.service
+attack = args.attack
 
 # Check if the argument is a directory
 if not os.path.isdir(rootdir):
     print("Invalid Directory => {}".format(rootdir))
     exit()
 
-# Open yaml file
-try:
-    with open('attacks.yaml','r') as n:
-        attacks = yaml.safe_load(n)
-except EnvironmentError as e:
-    print(e.strerror)
+#Allows us to grab all of the files
+def searchtermz(files, service, attack):
 
-def search(path, book, term):
-    # query yaml file for the 'term' associated with the book
-    terms = attacks[book][term]
-    keyattacks = terms.split(",")
-    with open(path) as f:
-        contents = f.readlines()
 
     # List to save files
-    flist =[]
-
+    flist = []
 
     # Crawl through the provided directory
     for root, subfolder, filenames in os.walk(rootdir):
-
         for f in filenames:
-
-            #print(root +"  " + "|" + "  " + f)
             fileList = root + "/" + f
-            #print(fileList)
             flist.append(fileList)
+            files = flist
+            # print(flist)
+            #print(fileList)
+    #for files in flist:
+        # print(book)
+        # query the yaml file for the attack and book
+    searchterm = attacks[service][attack]
+    keywords = searchterm.split(",")
+        # print(keywords)
+    with open(files) as f:
+            contents = f.readlines() # reads every line of the files
+    slist =[]
+            #print(contents)
+            #print(slist)
+            # loop through the files line by line
+    for line in contents:
+            # loop through the list returned for the keyterms
+        for eachsearchterm in keywords:
+            x = re.findall(r''+eachsearchterm+'', line)
+            for found in x:
+                slist.append(found)
+                    #print(slist)
+        # check to see if there are results
+    if len(slist) == 0:
+        print("No Results")
+        sys.exit(1)
+        # sort the list
+    results = sorted(slist)
+    return results
 
-    #print(flist)
 
-    def statFile(toStat):
-        # i is going to be the variable used for each of the metadata elements
-        i = os.stat(toStat,follow_symlinks=False)
-
-        # mode
-        mode = i[0]
-
-        # inode
-        inode = i[1]
-
-        # uid
-        uid = i[4]
-
-        # gid
-        gid = i[5]
-
-        #file size
-        fsize = i[6]
-
-        # access time
-        atime = i[7]
-
-        # modification time
-        mtime = i[8]
-
-        # ctime => windows is the birth of the file, when it was created
-        # unix it is when attributes of the file changes
-        ctime =i[9]
-        crtime = i[9]
-
-        print("0|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}".format(toStat, inode, mode, uid, gid, fsize, atime, mtime, ctime, crtime))
-
-    for eachFile in flist:
-
-        statFile(eachFile)
+#if __name__== '__main__':
+    #searchtermz()

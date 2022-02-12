@@ -11,16 +11,14 @@ except EnvironmentError as e:
     print(e.strerror)
 
 
-def logs(filenane,service, term):
+
+def logs(filename,service, term):
     # query yaml file for the 'term' or direction and
     # retrieve the strings to search on.
     terms = keywords[service][term]
     listOfKeywords = terms.split(",")
-
-
     # Open a file
-    with open(filenane) as f:
-
+    with open(filename) as f:
         # read in the file and save it to a variable
         contents = f.readlines()
 
@@ -47,8 +45,6 @@ def logs(filenane,service, term):
         sys.exit(1)
     # sort the list
     results = sorted(results)
-
-
     return results
            # print(x)
 
