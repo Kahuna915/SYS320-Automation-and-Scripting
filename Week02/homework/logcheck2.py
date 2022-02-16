@@ -12,13 +12,13 @@ except EnvironmentError as e:
 
 
 
-def logs(filename,service, term):
+def logs(filenane,service, term):
     # query yaml file for the 'term' or direction and
     # retrieve the strings to search on.
     terms = keywords[service][term]
     listOfKeywords = terms.split(",")
     # Open a file
-    with open(filename) as f:
+    with open(filenane) as f:
         # read in the file and save it to a variable
         contents = f.readlines()
 

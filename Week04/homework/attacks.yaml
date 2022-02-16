@@ -1,22 +1,21 @@
 ---
 shell_attack:
-  winshell: "*.winShell:.*"
-  nixshell: "nixShell:.*"
-  webshell: "webShell:.*"
-command_shells:
-  cmdexe: "cmd.exe.*"
-  bash: "/bin/sh.*"
-  c99: "c99.php.*"
+  winshell: "cmd.exe"
+  nixshell: "/bin/sh"
+  webshell: "c99.php"
+
 #---
 #sql_injection:
-    #phpadmin: "/phpmyadmin.*"
-    #sql: "mysql.*"
+    #phpadmin: "/phpmyadmin"
+    #sql: "mysql"
+
 #---
 #traversal_attacks:
-    #passwd: "/etc/passwd.*"
-    #period: "'\.\.'.*"
+    #passwd: "/etc/passwd"
+    #period: "'\.\.'"
+
 #---
 #content_systems:
-    #joom: "joomla.*"
-    #wordpress: "wordpress.*"
-    #xml: "xmlrpc.*"
+    #joom: "joomla"
+    #wordpress: "wordpress"
+    #xml: "xmlrpc"
