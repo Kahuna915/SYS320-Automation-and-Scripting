@@ -1,0 +1,14 @@
+Do you see anything of concern with the attempts to obtain a shell?  Provide a brief explanation.
+Well if someone obtains a shell they can run powerful scripts and inject malicious material into the system.
+
+---
+What did you like the most and least about this assignment?
+most - Made me research a ton and actually understand the code deeper
+least - yamal file on windows kept giving me errors.
+
+---
+What additional questions do you have?
+I had a hard time getting the code to work. It was able to print all the contents of the files line by line.
+But I kept getting an unhashable type "dict" error that I could not resolve. I would like to meet and see how to resolve this error
+as it seems if that gets solved the code would work.
+Also the yamal file kept giving me errors and I had to hash mutiple lines out to be able to test.
