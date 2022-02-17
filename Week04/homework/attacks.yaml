@@ -1,17 +1,13 @@
----
 shell_attack:
   winshell: "cmd.exe"
   nixshell: "/bin/sh"
   webshell: "c99.php"
----
 sql_injection:
     phpadmin: "/phpmyadmin"
     sql: "mysql"
----
 traversal_attacks:
     passwd: "/etc/passwd"
-    period: "'\.\.'"
----
+    #period: "'\.\.'"
 content_systems:
     joom: "joomla"
     wordpress: "wordpress"
