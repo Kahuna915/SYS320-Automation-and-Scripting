@@ -25,18 +25,39 @@ def do_we_have_files(directory):
 def load_yaml_rules(rules):
     rlist = []
     # Open yaml file
-
-    with open('hwrules.yaml','r') as yf:
+    #print(rlist)
+    with open('hwrules.yaml','rb') as yf:
         try:
             dict = yaml.safe_load_all(yf)
             #print(dict)
-            for keyval in dict:
-                #print(keyval)
-                rlist = rlist.append(keyval[rules])
+            for rule in dict:
+                #print(rule)
+                rlist.append(rule)
+                print(rlist)
         except EnvironmentError as e:
             print(e.strerror)
-            return rlist
+    #print(rlist)
+    #for rule in rlist:
+        #print(rule)
+        # Want to get it so that for each rule in rlist we grab the detections
+        #rlist.append(rules)
+        #print(rlist)
+            #print(cheese)
+            #if rule in rlist:
+                #print(rlist)
+                #print(rules)
+                #rlist = rlist.append(rules)
+                #print(rlist)
 
+    '''
+            for rule in rlist:
+                print(rule)
+                if rule in rules:
+                    rlist = rule
+                    print(rlist)
+
+                    return rlist
+    '''
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
