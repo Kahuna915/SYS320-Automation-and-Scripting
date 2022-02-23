@@ -8,7 +8,7 @@ signs_of_credential_collection:
   References:
     - 'https://attack.mitre.org/techniques/T1214/'
   Detections:
-    - 'HKLM\SYSTEM\CurrentControlSet\Control\Lsa\'
+    - 'HKLM\\SYSTEM\\CurrentControlSet\\Control\\Lsa\\'
 process_running_javascript_or_vbscript:
   Description: 'Adversaries may use scripts to aid in operations and perform multiple actions that would otherwise be manual.
   Scripting is useful for speeding up operational tasks and reducing the time required to gain access to critical resources. 

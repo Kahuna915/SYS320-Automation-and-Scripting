@@ -1,7 +1,8 @@
 import argparse
 import os
 import yaml
-
+import csv
+import re
 
 # Let's go through the directory and grab the files
 def do_we_have_files(directory):
@@ -28,26 +29,13 @@ def load_yaml_rules(rules):
     #print(rlist)
     with open('hwrules.yaml','rb') as yf:
         try:
-            dict = yaml.safe_load_all(yf)
-            #print(dict)
-            for rule in dict:
-                #print(rule)
-                rlist.append(rule)
-                print(rlist)
+            hlist = yaml.safe_load(yf)
+            rlist = hlist[rules]
+            rlist = rlist['Detections']
+            #print(rlist)
         except EnvironmentError as e:
             print(e.strerror)
-    #print(rlist)
-    #for rule in rlist:
-        #print(rule)
-        # Want to get it so that for each rule in rlist we grab the detections
-        #rlist.append(rules)
-        #print(rlist)
-            #print(cheese)
-            #if rule in rlist:
-                #print(rlist)
-                #print(rules)
-                #rlist = rlist.append(rules)
-                #print(rlist)
+        return rlist
 
     '''
             for rule in rlist:
@@ -83,3 +71,52 @@ if __name__ == "__main__":
 # Hits a unicode Decode Error
     attack = load_yaml_rules(rootattack)
     #print(attack)
+
+    for eachFile in files:
+        with open(eachFile, 'r',encoding='utf-8') as yf:
+            contents = (yf.readlines())
+        #print(contents)
+        results = []
+        for line in contents:
+            for eachKeyword in attack:
+                x = re.findall(r'.*'+eachKeyword+'.*', line)
+                for found in x:
+                    results.append(found)
+        if len(results) == 0:
+            print("No Results")
+        results = sorted(results)
+        print(results)
+            #print(line)
+            #if attack in contents:
+            #for eachKeyword in attack:
+                #x = re.findall(r''+eachKeyword+'', line)
+                #print(x)
+                #for found in x:
+                    #results.append(found)
+                    #if len(results) == 0:
+                        #print("No Results")
+                    #results = sorted(results)
+                    #print(results)
+'''
+    for eachFile in files:
+        with open(eachFile, newline='') as e:
+            contents = csv.reader(e, delimiter=' ', quotechar='|')
+            #print(contents)
+        results = []
+        for row in contents:
+            #print(row)
+            for eachKeyword in attack:
+                x = re.findall(r''+eachKeyword+'', row)
+                for found in x:
+                    results.append(found)
+                    if len(results) == 0:
+                        print("No Results")
+                    results = sorted(results)
+                    print(results
+                          )
+            #print(eachFile)
+            #contents = csv.reader(e)
+            #for line in contents:
+                #print(line)
+'''
+
