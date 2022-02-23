@@ -31,8 +31,8 @@ def load_yaml_rules(rules):
     #print(rlist)
     with open('hwrules.yaml','rb') as yf: #Opens the yaml file
         try:
-            hlist = yaml.safe_load(yf) #Stores it as a list
-            rlist = hlist[rules] #Looks for the particular book
+            rlist = yaml.safe_load(yf) #Stores it as a list
+            rlist = rlist[rules] #Looks for the particular book
             rlist = rlist['Detections'] #Grabs the detections section of our book
             #print(rlist)
         except EnvironmentError as e:
@@ -64,16 +64,33 @@ if __name__ == "__main__":
     for eachFile in files: # Goes through and grabs each file
         with open(eachFile, 'r',encoding='utf-8') as yf: # Opens each file needed utf-8 or else you get a unicode error
             contents = (yf.readlines()) # Reads the file as lines and stores it as a variable
-        #print(contents)
-        results = [] # List for our results
-        for line in contents: #For each line in contents
-            for eachKeyword in attack: #We search for our keyword which is the descripton we set above
-                x = re.findall(r'.*'+eachKeyword+'.*', line) #Prints the entire line when the keyword is found
-                for found in x:
-                    results.append(found) #appends our lists with what we found
-        if len(results) == 0:
-            print("No Results")
-        results = sorted(results) #Sorts our list and prints it
-        print(results)
+            #print(contents)
+            results = [] # List for our results
+            for line in contents: #For each line in contents
+                for eachKeyword in attack: #We search for our keyword which is the descripton we set above
+                    x = re.findall(r'.*'+eachKeyword+'.*', line) #Prints the entire line when the keyword is found
+                    for found in x:
+                        #['21,"""C:\\Program Files\\internet explorer\\iexplore.exe"" ",0001FXGSE,iexplore.exe,C:\\Program Files\\internet explorer,4489,lotti.richards']
+                        results.append(" Arguments: " + found[68:80] + " Path: " + found[8:53] + " pid " + found[58:68] + " Username "
+                                       + found[120:150] + " Hostname: " + found[0:5]) #appends our lists with valuable information
+
+            results = sorted(results) #Sorts our list and prints it
+
+
+            with open('hwrules.yaml', 'rb') as yf:  # Opens the yaml file
+                try:
+                    d_rlist = yaml.safe_load(yf)  # Stores it as a list
+                    #print(d_rlist)
+                    main_book = d_rlist[rootattack]
+                    #print(main_book)
+                    description = main_book["Description"]  # Looks for the particular book
+                    references = main_book["References"]  # Grabs the detections section of our book
+                    if len(results) == 1:
+                        print(results)
+                        print(description, references)
+                except EnvironmentError as e:
+                    print(e.strerror)
+
+
 
 
