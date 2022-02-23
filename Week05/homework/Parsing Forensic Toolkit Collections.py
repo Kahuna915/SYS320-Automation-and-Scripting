@@ -86,37 +86,5 @@ if __name__ == "__main__":
             print("No Results")
         results = sorted(results)
         print(results)
-            #print(line)
-            #if attack in contents:
-            #for eachKeyword in attack:
-                #x = re.findall(r''+eachKeyword+'', line)
-                #print(x)
-                #for found in x:
-                    #results.append(found)
-                    #if len(results) == 0:
-                        #print("No Results")
-                    #results = sorted(results)
-                    #print(results)
-'''
-    for eachFile in files:
-        with open(eachFile, newline='') as e:
-            contents = csv.reader(e, delimiter=' ', quotechar='|')
-            #print(contents)
-        results = []
-        for row in contents:
-            #print(row)
-            for eachKeyword in attack:
-                x = re.findall(r''+eachKeyword+'', row)
-                for found in x:
-                    results.append(found)
-                    if len(results) == 0:
-                        print("No Results")
-                    results = sorted(results)
-                    print(results
-                          )
-            #print(eachFile)
-            #contents = csv.reader(e)
-            #for line in contents:
-                #print(line)
-'''
+
 
