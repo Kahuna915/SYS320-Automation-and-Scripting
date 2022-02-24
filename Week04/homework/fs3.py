@@ -1,5 +1,5 @@
 # File to traverse a given directory and it's subdirs and retrieve all the files.
-
+#!/bin/bash
 import os, argparse
 import logChecker
 parser = argparse.ArgumentParser(
