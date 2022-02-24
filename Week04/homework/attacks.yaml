@@ -7,7 +7,7 @@ sql_injection:
     sql: "mysql"
 traversal_attacks:
     passwd: "/etc/passwd"
-    #period: "'\.\.'"
+    period: "\\.\\.'"
 content_systems:
     joom: "joomla"
     wordpress: "wordpress"
