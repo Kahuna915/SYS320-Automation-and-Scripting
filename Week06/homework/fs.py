@@ -48,7 +48,7 @@ for root, subfolder, filenames in os.walk(rootdir):
 
 def statFile(toStat):
     # i is going to be the variable used for each of the metadata elements
-    i = os.stat(toStat,follow_symlinks=False)
+    i = os.stat(toStat, follow_symlinks=False)
 
     # mode
     mode = i[0]
