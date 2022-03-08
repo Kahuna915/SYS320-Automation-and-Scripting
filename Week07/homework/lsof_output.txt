@@ -1,0 +1,74 @@
+COMMAND  PID     USER   FD      TYPE DEVICE SIZE/OFF   NODE NAME
+ls      3138 p.dalton  cwd       DIR    8,1     4096 258130 /home/p.dalton/test-lk
+ls      3138 p.dalton  rtd       DIR    8,1     4096      2 /
+ls      3138 p.dalton  txt       REG    8,1  6597697 258133 /usr/local/bin/ls
+ls      3138 p.dalton  DEL       REG    8,1            3453 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+ls      3138 p.dalton  DEL       REG    8,1            3466 /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+ls      3138 p.dalton  DEL       REG    8,1            3449 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+ls      3138 p.dalton    0r      CHR    1,3      0t0      6 /dev/null
+ls      3138 p.dalton    1w      REG    8,1       85 258135 /home/p.dalton/test-lk/.d.log
+ls      3138 p.dalton    2w      REG    8,1       85 258135 /home/p.dalton/test-lk/.d.log
+ls      3138 p.dalton    3r      CHR    1,3      0t0      6 /dev/null
+ls      3138 p.dalton    4u      REG    8,1        4 258134 /home/p.dalton/test-lk/d.pid
+ls      3138 p.dalton    5u     IPv6  33422      0t0    TCP *:http-alt (LISTEN)
+ls      3138 p.dalton    7u  a_inode   0,14        0  10376 [eventpoll]
+ls      3138 p.dalton    8r     FIFO   0,13      0t0  33424 pipe
+ls      3138 p.dalton    9w     FIFO   0,13      0t0  33424 pipe
+COMMAND   PID     USER   FD      TYPE             DEVICE SIZE/OFF  NODE NAME
+(sd-pam) 3027 p.dalton  cwd       DIR                8,1     4096     2 /
+(sd-pam) 3027 p.dalton  rtd       DIR                8,1     4096     2 /
+(sd-pam) 3027 p.dalton  txt       REG                8,1  1620224  3303 /usr/lib/systemd/systemd
+(sd-pam) 3027 p.dalton  mem       REG                8,1    14728  3894 /usr/lib/x86_64-linux-gnu/libpam_misc.so.0.82.1
+(sd-pam) 3027 p.dalton  mem       REG                8,1    18424  3852 /usr/lib/x86_64-linux-gnu/security/pam_cap.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1   475944  3848 /usr/lib/x86_64-linux-gnu/security/pam_systemd.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    14624  3845 /usr/lib/x86_64-linux-gnu/security/pam_umask.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    27136  3821 /usr/lib/x86_64-linux-gnu/security/pam_limits.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    14584  3824 /usr/lib/x86_64-linux-gnu/security/pam_loginuid.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    27088  3835 /usr/lib/x86_64-linux-gnu/security/pam_selinux.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    14448  3830 /usr/lib/x86_64-linux-gnu/security/pam_permit.so
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3458 /usr/lib/x86_64-linux-gnu/libnsl-2.31.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    64504  3846 /usr/lib/x86_64-linux-gnu/security/pam_unix.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1   239896  3892 /usr/lib/x86_64-linux-gnu/libnss_systemd.so.2
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3461 /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3455 /usr/lib/x86_64-linux-gnu/libm-2.31.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1   178528  3890 /usr/lib/x86_64-linux-gnu/libudev.so.1.6.17
+(sd-pam) 3027 p.dalton  mem       REG                8,1  1575112  3861 /usr/lib/x86_64-linux-gnu/libunistring.so.2.1.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1   137584  3487 /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1    67912  3910 /usr/lib/x86_64-linux-gnu/libjson-c.so.4.0.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1    34872  3486 /usr/lib/x86_64-linux-gnu/libargon2.so.1
+(sd-pam) 3027 p.dalton  mem       REG                8,1   431472  3496 /usr/lib/x86_64-linux-gnu/libdevmapper.so.1.02.1
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3881 /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1  2954080  3912 /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1
+(sd-pam) 3027 p.dalton  mem       REG                8,1    27064  3468 /usr/lib/x86_64-linux-gnu/libcap-ng.so.0.0.0
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3454 /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1   584392  3855 /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3466 /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1   162264  3782 /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+(sd-pam) 3027 p.dalton  mem       REG                8,1   129248  3518 /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+(sd-pam) 3027 p.dalton  mem       REG                8,1    35440  3515 /usr/lib/x86_64-linux-gnu/libip4tc.so.2.0.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1   129096  3510 /usr/lib/x86_64-linux-gnu/libidn2.so.0.3.6
+(sd-pam) 3027 p.dalton  mem       REG                8,1  1168056  3783 /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3935 /usr/lib/x86_64-linux-gnu/libcryptsetup.so.12.5.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1   202760  3477 /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1    31120  3489 /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3884 /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1    39088  3504 /usr/lib/x86_64-linux-gnu/libacl.so.1.1.2253
+(sd-pam) 3027 p.dalton  mem       REG                8,1    80736  3908 /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+(sd-pam) 3027 p.dalton  mem       REG                8,1   104656  3519 /usr/lib/x86_64-linux-gnu/libkmod.so.2.3.5
+(sd-pam) 3027 p.dalton  mem       REG                8,1   133200  3508 /usr/lib/x86_64-linux-gnu/libaudit.so.1.0.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1    68320  3893 /usr/lib/x86_64-linux-gnu/libpam.so.0.84.2
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3904 /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+(sd-pam) 3027 p.dalton  mem       REG                8,1   163200  3863 /usr/lib/x86_64-linux-gnu/libselinux.so.1
+(sd-pam) 3027 p.dalton  mem       REG                8,1   133568  3803 /usr/lib/x86_64-linux-gnu/libseccomp.so.2.5.1
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3471 /usr/lib/x86_64-linux-gnu/librt-2.31.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1  2454472  3300 /usr/lib/systemd/libsystemd-shared-245.so
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3453 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+(sd-pam) 3027 p.dalton  mem       REG                8,1    14048  3808 /usr/lib/x86_64-linux-gnu/security/pam_deny.so
+(sd-pam) 3027 p.dalton  DEL       REG                8,1           3449 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+(sd-pam) 3027 p.dalton    0r      CHR                1,3      0t0     6 /dev/null
+(sd-pam) 3027 p.dalton    1u     unix 0xffff89cae9d91000      0t0 33021 type=STREAM
+(sd-pam) 3027 p.dalton    2u     unix 0xffff89cae9d91000      0t0 33021 type=STREAM
+(sd-pam) 3027 p.dalton    3u  a_inode               0,14        0 10376 [eventfd]
+(sd-pam) 3027 p.dalton    4u  a_inode               0,14        0 10376 [eventfd]
+(sd-pam) 3027 p.dalton    6w     FIFO               0,13      0t0 33022 pipe
+(sd-pam) 3027 p.dalton    7u     unix 0xffff89caea098c00      0t0 33051 type=DGRAM

@@ -1,0 +1,1366 @@
+Mar  6 05:17:01 sys320 CRON[84284]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 05:17:01 sys320 CRON[84284]: pam_unix(cron:session): session closed for user root
+Mar  6 06:17:01 sys320 CRON[84425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 06:17:01 sys320 CRON[84425]: pam_unix(cron:session): session closed for user root
+Mar  6 07:17:01 sys320 CRON[84592]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 07:17:02 sys320 CRON[84592]: pam_unix(cron:session): session closed for user root
+Mar  6 08:10:01 sys320 CRON[84719]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:10:01 sys320 CRON[84719]: pam_unix(cron:session): session closed for user root
+Mar  6 08:17:01 sys320 CRON[84754]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:17:01 sys320 CRON[84754]: pam_unix(cron:session): session closed for user root
+Mar  6 08:30:01 sys320 CRON[84792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 08:30:01 sys320 CRON[84792]: pam_unix(cron:session): session closed for user root
+Mar  6 09:17:01 sys320 CRON[84902]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 09:17:01 sys320 CRON[84902]: pam_unix(cron:session): session closed for user root
+Mar  6 10:17:01 sys320 CRON[85077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 10:17:01 sys320 CRON[85077]: pam_unix(cron:session): session closed for user root
+Mar  6 11:17:01 sys320 CRON[85769]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 11:17:01 sys320 CRON[85769]: pam_unix(cron:session): session closed for user root
+Mar  6 11:25:01 sys320 CRON[85795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 11:25:01 sys320 CRON[85795]: pam_unix(cron:session): session closed for user root
+Mar  6 11:47:01 sys320 CRON[85973]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 11:47:01 sys320 CRON[85973]: pam_unix(cron:session): session closed for user root
+Mar  6 12:17:01 sys320 CRON[86068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 12:17:01 sys320 CRON[86068]: pam_unix(cron:session): session closed for user root
+Mar  6 13:17:01 sys320 CRON[86213]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 13:17:01 sys320 CRON[86213]: pam_unix(cron:session): session closed for user root
+Mar  6 14:17:01 sys320 CRON[86383]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 14:17:01 sys320 CRON[86383]: pam_unix(cron:session): session closed for user root
+Mar  6 15:17:01 sys320 CRON[86524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 15:17:01 sys320 CRON[86524]: pam_unix(cron:session): session closed for user root
+Mar  6 16:17:01 sys320 CRON[86664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 16:17:01 sys320 CRON[86664]: pam_unix(cron:session): session closed for user root
+Mar  6 16:23:02 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  6 16:23:02 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  6 16:23:03 sys320 sshd[86685]: Accepted password for noah.stiles from 192.168.6.72 port 62225 ssh2
+Mar  6 16:23:03 sys320 sshd[86685]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:23:03 sys320 sshd[86685]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:23:18 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:23:18 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:23:18 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:23:18 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:23:18 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:23:18 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:23:18 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:23:18 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:23:46 sys320 sshd[86797]: Accepted password for noah.stiles from 192.168.6.72 port 62236 ssh2
+Mar  6 16:23:46 sys320 sshd[86797]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:23:46 sys320 sshd[86797]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:24:02 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:24:02 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:24:02 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:24:02 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:24:02 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:24:02 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:24:02 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:24:02 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:24:02 sys320 sshd[86797]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:24:25 sys320 sshd[86876]: Accepted password for noah.stiles from 192.168.6.72 port 62243 ssh2
+Mar  6 16:24:25 sys320 sshd[86876]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:24:25 sys320 sshd[86876]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:24:40 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:24:40 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:24:40 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:24:40 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:24:40 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:24:40 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:24:40 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:24:40 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:24:40 sys320 sshd[86876]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:25:23 sys320 sshd[86958]: Accepted password for noah.stiles from 192.168.6.72 port 62254 ssh2
+Mar  6 16:25:23 sys320 sshd[86958]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:25:23 sys320 sshd[86958]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:25:39 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:25:39 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:25:39 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:25:39 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:25:39 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:25:39 sys320 sshd[86958]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:32:19 sys320 sshd[87063]: Accepted password for noah.stiles from 192.168.6.72 port 62510 ssh2
+Mar  6 16:32:19 sys320 sshd[87063]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:32:19 sys320 sshd[87063]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:39:15 sys320 sshd[87160]: Accepted password for noah.stiles from 192.168.6.72 port 62929 ssh2
+Mar  6 16:39:15 sys320 sshd[87160]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:39:15 sys320 sshd[87160]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:39:36 sys320 sshd[87244]: Accepted password for noah.stiles from 192.168.6.72 port 62932 ssh2
+Mar  6 16:39:36 sys320 sshd[87244]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:39:36 sys320 sshd[87244]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:39:51 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:39:51 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:39:51 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:39:51 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:39:51 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:39:51 sys320 sshd[87244]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:49:03 sys320 sshd[87345]: Accepted password for noah.stiles from 192.168.6.72 port 62209 ssh2
+Mar  6 16:49:03 sys320 sshd[87345]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:49:03 sys320 sshd[87345]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:49:18 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:49:18 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:49:18 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:49:18 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:49:18 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:49:18 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:49:18 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:49:18 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:49:18 sys320 sshd[87345]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:49:37 sys320 sshd[87433]: Accepted password for noah.stiles from 192.168.6.72 port 62217 ssh2
+Mar  6 16:49:37 sys320 sshd[87433]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:49:37 sys320 sshd[87433]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:49:51 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:49:51 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:49:51 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:49:51 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:49:51 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:49:51 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:49:51 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:49:51 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:49:51 sys320 sshd[87433]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:53:43 sys320 sshd[87520]: Accepted password for noah.stiles from 192.168.6.72 port 62278 ssh2
+Mar  6 16:53:43 sys320 sshd[87520]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:53:43 sys320 sshd[87520]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:53:58 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:53:58 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:53:58 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:53:58 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:53:58 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:53:58 sys320 sshd[87520]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:53:58 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:40022]
+Mar  6 16:53:58 sys320 sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1286604228 euid=0 tty= ruser=noah.stiles rhost=  user=noah.stiles
+Mar  6 16:54:00 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:54:00 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:54:00 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:54:00 sys320 sudo: noah.stiles : 1 incorrect password attempt ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 16:54:17 sys320 sshd[87606]: Accepted password for noah.stiles from 192.168.6.72 port 62291 ssh2
+Mar  6 16:54:17 sys320 sshd[87606]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:54:17 sys320 sshd[87606]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:54:32 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:54:32 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:54:32 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:54:32 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:54:32 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:54:32 sys320 sshd[87606]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 16:54:32 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:40022]
+Mar  6 16:54:32 sys320 sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1286604228 euid=0 tty= ruser=noah.stiles rhost=  user=noah.stiles
+Mar  6 16:54:35 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:54:35 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:54:35 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 16:54:35 sys320 sudo: noah.stiles : 1 incorrect password attempt ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 16:57:19 sys320 sshd[87692]: Accepted password for noah.stiles from 192.168.6.72 port 62322 ssh2
+Mar  6 16:57:19 sys320 sshd[87692]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 16:57:19 sys320 sshd[87692]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 16:57:34 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:57:34 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 16:57:34 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 16:57:34 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 16:57:34 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:00:37 sys320 sshd[87692]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 17:00:37 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:40022]
+Mar  6 17:00:37 sys320 sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1286604228 euid=0 tty= ruser=noah.stiles rhost=  user=noah.stiles
+Mar  6 17:00:39 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:00:39 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:00:39 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:00:39 sys320 sudo: noah.stiles : 1 incorrect password attempt ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 17:00:58 sys320 sshd[87792]: Accepted password for noah.stiles from 192.168.6.72 port 62484 ssh2
+Mar  6 17:00:58 sys320 sshd[87792]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:00:58 sys320 sshd[87792]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:01:13 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:01:13 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:01:13 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:01:13 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:01:13 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:06:12 sys320 sshd[87879]: Accepted password for noah.stiles from 192.168.6.72 port 62612 ssh2
+Mar  6 17:06:12 sys320 sshd[87879]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:06:12 sys320 sshd[87879]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:06:27 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:06:27 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:06:27 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:06:27 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:06:27 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:07:03 sys320 sshd[87792]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 17:07:03 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:40022]
+Mar  6 17:07:03 sys320 sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1286604228 euid=0 tty= ruser=noah.stiles rhost=  user=noah.stiles
+Mar  6 17:07:05 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:07:05 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:07:05 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:07:05 sys320 sudo: noah.stiles : 1 incorrect password attempt ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 17:07:36 sys320 sshd[87974]: Accepted password for noah.stiles from 192.168.6.72 port 62632 ssh2
+Mar  6 17:07:36 sys320 sshd[87974]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:07:36 sys320 sshd[87974]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:08:00 sys320 sshd[88055]: Accepted password for noah.stiles from 192.168.6.72 port 62634 ssh2
+Mar  6 17:08:00 sys320 sshd[88055]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:08:00 sys320 sshd[88055]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:08:15 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:08:15 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:08:15 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:08:15 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:08:15 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:08:15 sys320 sshd[88055]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 17:09:05 sys320 sshd[88135]: Accepted password for noah.stiles from 192.168.6.72 port 62635 ssh2
+Mar  6 17:09:05 sys320 sshd[88135]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:09:05 sys320 sshd[88135]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:09:20 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:09:20 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:09:20 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:09:20 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:09:20 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:09:20 sys320 sshd[88135]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 17:12:42 sys320 sshd[88229]: Accepted password for noah.stiles from 192.168.6.72 port 62651 ssh2
+Mar  6 17:12:42 sys320 sshd[88229]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:12:42 sys320 sshd[88229]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:13:55 sys320 sshd[88312]: Accepted password for noah.stiles from 192.168.6.72 port 62660 ssh2
+Mar  6 17:13:55 sys320 sshd[88312]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:13:55 sys320 sshd[88312]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:13:55 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:13:55 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/sudo -i
+Mar  6 17:13:55 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 17:13:55 sys320 sudo:     root : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:13:55 sys320 sudo:     root : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/bin/bash
+Mar  6 17:13:55 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 17:14:47 sys320 sshd[88401]: Accepted password for noah.stiles from 192.168.6.72 port 62663 ssh2
+Mar  6 17:14:47 sys320 sshd[88401]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:14:47 sys320 sshd[88401]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:15:02 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:15:02 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 17:15:02 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:15:02 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:15:02 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:15:02 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 17:15:02 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:15:02 sys320 sshd[88401]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 17:15:38 sys320 sshd[88486]: Accepted password for noah.stiles from 192.168.6.72 port 62670 ssh2
+Mar  6 17:15:38 sys320 sshd[88486]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 17:15:38 sys320 sshd[88486]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 17:15:54 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:15:54 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 17:15:54 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 17:15:54 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 17:15:54 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 17:15:54 sys320 sshd[88486]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 17:17:01 sys320 CRON[88573]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 17:17:01 sys320 CRON[88573]: pam_unix(cron:session): session closed for user root
+Mar  6 18:17:01 sys320 CRON[88714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 18:17:01 sys320 CRON[88714]: pam_unix(cron:session): session closed for user root
+Mar  6 18:34:59 sys320 sshd[86685]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 18:43:43 sys320 sshd[87063]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 18:52:27 sys320 sshd[87160]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 19:17:01 sys320 CRON[88910]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 19:17:01 sys320 CRON[88910]: pam_unix(cron:session): session closed for user root
+Mar  6 19:18:40 sys320 sshd[87879]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 19:18:40 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:40022]
+Mar  6 19:18:40 sys320 sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1286604228 euid=0 tty= ruser=noah.stiles rhost=  user=noah.stiles
+Mar  6 19:18:43 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 19:18:43 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 19:18:43 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 19:18:43 sys320 sudo: noah.stiles : 1 incorrect password attempt ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 19:20:51 sys320 sshd[87974]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 19:25:13 sys320 sshd[88229]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 19:27:24 sys320 sshd[88312]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 19:29:01 sys320 CRON[88972]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 19:29:01 sys320 CRON[88972]: pam_unix(cron:session): session closed for user root
+Mar  6 20:17:02 sys320 CRON[89109]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 20:17:02 sys320 CRON[89109]: pam_unix(cron:session): session closed for user root
+Mar  6 21:17:01 sys320 CRON[89265]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 21:17:01 sys320 CRON[89265]: pam_unix(cron:session): session closed for user root
+Mar  6 21:46:56 sys320 sshd[89339]: Accepted password for noah.stiles from 192.168.6.72 port 62997 ssh2
+Mar  6 21:46:56 sys320 sshd[89339]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:46:56 sys320 sshd[89339]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:47:12 sys320 sshd[89452]: Accepted password for noah.stiles from 192.168.6.72 port 62998 ssh2
+Mar  6 21:47:12 sys320 sshd[89452]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:47:12 sys320 sshd[89452]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:47:12 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 21:47:12 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 21:47:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 21:47:13 sys320 sshd[89452]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 21:47:28 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 21:48:17 sys320 sshd[89537]: Accepted password for noah.stiles from 192.168.6.72 port 63013 ssh2
+Mar  6 21:48:17 sys320 sshd[89537]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:48:17 sys320 sshd[89537]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:48:32 sys320 sshd[89621]: Accepted password for noah.stiles from 192.168.6.72 port 63015 ssh2
+Mar  6 21:48:32 sys320 sshd[89621]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:48:32 sys320 sshd[89621]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:48:33 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 21:48:33 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 21:48:33 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 21:48:33 sys320 sshd[89621]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 21:48:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 21:49:41 sys320 sshd[89707]: Accepted password for noah.stiles from 192.168.6.72 port 63022 ssh2
+Mar  6 21:49:41 sys320 sshd[89707]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:49:41 sys320 sshd[89707]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:49:57 sys320 sshd[89788]: Accepted password for noah.stiles from 192.168.6.72 port 63023 ssh2
+Mar  6 21:49:57 sys320 sshd[89788]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:49:57 sys320 sshd[89788]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:49:58 sys320 sshd[89863]: Accepted password for noah.stiles from 192.168.6.72 port 63024 ssh2
+Mar  6 21:49:58 sys320 sshd[89863]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:49:58 sys320 sshd[89863]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:49:59 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 21:49:59 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 21:49:59 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 21:49:59 sys320 sshd[89863]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 21:50:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 21:50:27 sys320 sshd[89946]: Accepted password for noah.stiles from 192.168.6.72 port 63036 ssh2
+Mar  6 21:50:27 sys320 sshd[89946]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:50:27 sys320 sshd[89946]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:50:43 sys320 sshd[90021]: Accepted password for noah.stiles from 192.168.6.72 port 63040 ssh2
+Mar  6 21:50:43 sys320 sshd[90021]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:50:43 sys320 sshd[90021]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:50:44 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 21:50:44 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 21:50:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 21:50:44 sys320 sshd[90021]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 21:51:00 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 21:53:01 sys320 sshd[90111]: Accepted password for noah.stiles from 192.168.6.72 port 63071 ssh2
+Mar  6 21:53:01 sys320 sshd[90111]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:53:01 sys320 sshd[90111]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:53:17 sys320 sshd[90195]: Accepted password for noah.stiles from 192.168.6.72 port 63072 ssh2
+Mar  6 21:53:17 sys320 sshd[90195]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:53:17 sys320 sshd[90195]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:53:17 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 21:53:17 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 21:53:17 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 21:53:17 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 21:53:17 sys320 sshd[90195]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 21:53:47 sys320 sshd[90272]: Accepted password for noah.stiles from 192.168.6.72 port 63074 ssh2
+Mar  6 21:53:47 sys320 sshd[90272]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:53:47 sys320 sshd[90272]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:54:02 sys320 sshd[90347]: Accepted password for noah.stiles from 192.168.6.72 port 63075 ssh2
+Mar  6 21:54:02 sys320 sshd[90347]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  6 21:54:02 sys320 sshd[90347]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 21:54:03 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  6 21:54:03 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 21:54:03 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  6 21:54:03 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  6 21:54:03 sys320 sshd[90347]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  6 22:06:00 sys320 sshd[90450]: Accepted password for reed.simon from 192.168.6.73 port 62220 ssh2
+Mar  6 22:06:00 sys320 sshd[90450]: pam_unix(sshd:session): session opened for user reed.simon by (uid=0)
+Mar  6 22:06:00 sys320 sshd[90450]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 22:06:36 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 22:06:36 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 22:06:36 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  6 22:06:36 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  6 22:06:47 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 22:06:47 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 22:06:47 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  6 22:06:47 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  6 22:17:01 sys320 CRON[90616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 22:17:01 sys320 CRON[90616]: pam_unix(cron:session): session closed for user root
+Mar  6 22:41:04 sys320 sshd[90450]: pam_unix(sshd:session): session closed for user reed.simon
+Mar  6 22:51:30 sys320 sshd[90708]: Accepted password for reed.simon from 192.168.6.73 port 62978 ssh2
+Mar  6 22:51:30 sys320 sshd[90708]: pam_unix(sshd:session): session opened for user reed.simon by (uid=0)
+Mar  6 22:51:30 sys320 sshd[90708]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 22:54:20 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 22:54:20 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 22:54:20 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  6 22:54:20 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  6 22:56:30 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 22:56:30 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  6 22:56:30 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  6 22:56:30 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  6 22:57:02 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 22:57:02 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/home/reed.simon/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 22:57:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 22:57:19 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:00:19 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:00:19 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/home/reed.simon/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 23:00:19 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:00:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:04:27 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:04:27 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/home/reed.simon/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 23:04:27 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:04:43 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:17:01 sys320 CRON[90929]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  6 23:17:01 sys320 CRON[90929]: pam_unix(cron:session): session closed for user root
+Mar  6 23:22:39 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:22:39 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138 25680
+Mar  6 23:22:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:22:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:22:47 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:22:47 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138 25680
+Mar  6 23:22:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:22:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:23:22 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:23:22 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138 25680
+Mar  6 23:23:22 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:23:22 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:24:45 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:24:45 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138,25680
+Mar  6 23:24:45 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:24:45 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:25:11 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:25:11 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138,25680
+Mar  6 23:25:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:25:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:25:32 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:25:32 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138,25680
+Mar  6 23:25:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:25:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:26:41 sys320 sshd[90708]: pam_unix(sshd:session): session closed for user reed.simon
+Mar  6 23:31:07 sys320 sshd[91012]: Accepted password for reed.simon from 192.168.6.73 port 63853 ssh2
+Mar  6 23:31:07 sys320 sshd[91012]: pam_unix(sshd:session): session opened for user reed.simon by (uid=0)
+Mar  6 23:31:07 sys320 sshd[91012]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  6 23:31:13 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:31:13 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/home/reed.simon/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  6 23:31:13 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:31:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:31:37 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:31:37 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138,25680
+Mar  6 23:31:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:31:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  6 23:47:56 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  6 23:47:56 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  6 23:47:56 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  6 23:47:56 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:03:31 sys320 sshd[90272]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:03:31 sys320 sshd[89946]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:03:31 sys320 sshd[89707]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:03:31 sys320 sshd[89339]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:03:31 sys320 sshd[90111]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:03:31 sys320 sshd[89788]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:03:31 sys320 sshd[89537]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 00:17:01 sys320 CRON[91248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 00:17:01 sys320 CRON[91248]: pam_unix(cron:session): session closed for user root
+Mar  7 00:29:08 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:29:08 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 00:29:08 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  7 00:29:08 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  7 00:29:52 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:29:52 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:29:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:29:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:30:42 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:30:42 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:30:42 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:30:42 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:33:08 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:33:08 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:33:08 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:33:08 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:33:26 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:33:26 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:33:26 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:33:26 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:34:26 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:34:26 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:34:26 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:34:26 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:37:05 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:37:05 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:37:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:37:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:37:26 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:37:26 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:37:26 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:37:26 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:40:29 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:40:29 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:40:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:40:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:42:29 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:42:29 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 00:42:29 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  7 00:42:29 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  7 00:42:29 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:42:29 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 00:42:29 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  7 00:42:29 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  7 00:42:38 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:42:38 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 00:42:38 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  7 00:42:38 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  7 00:42:38 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:42:38 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 00:42:38 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:reed.simon][error code:49919]
+Mar  7 00:42:38 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [reed.simon]
+Mar  7 00:42:43 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:42:48 sys320 sudo: message repeated 2 times: [ reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; ]
+Mar  7 00:42:48 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/p.dalton
+Mar  7 00:42:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:42:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:42:48 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:42:49 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/g.yaml
+Mar  7 00:42:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:42:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:44:44 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:44:44 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/p.dalton
+Mar  7 00:44:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:44:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:44:44 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:44:44 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/g.yaml
+Mar  7 00:44:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:44:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:46:34 sys320 sshd[91012]: pam_unix(sshd:session): session closed for user reed.simon
+Mar  7 00:49:05 sys320 sshd[91587]: Accepted password for reed.simon from 192.168.6.73 port 65084 ssh2
+Mar  7 00:49:05 sys320 sshd[91587]: pam_unix(sshd:session): session opened for user reed.simon by (uid=0)
+Mar  7 00:49:05 sys320 sshd[91587]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 00:49:17 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:49:17 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/home/reed.simon/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 00:49:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:49:33 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:50:46 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:50:47 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  7 00:50:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:50:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:54:39 sys320 sudo: reed.simon : problem with defaults entries ; TTY=unknown ; PWD=/home/reed.simon ; USER=root ; 
+Mar  7 00:54:39 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  7 00:54:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 00:54:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 00:55:36 sys320 sshd[91587]: pam_unix(sshd:session): session closed for user reed.simon
+Mar  7 01:17:01 sys320 CRON[91786]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 01:17:01 sys320 CRON[91786]: pam_unix(cron:session): session closed for user root
+Mar  7 02:17:01 sys320 CRON[91955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 02:17:01 sys320 CRON[91955]: pam_unix(cron:session): session closed for user root
+Mar  7 03:17:01 sys320 CRON[92168]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 03:17:01 sys320 CRON[92168]: pam_unix(cron:session): session closed for user root
+Mar  7 04:17:01 sys320 CRON[92325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 04:17:01 sys320 CRON[92325]: pam_unix(cron:session): session closed for user root
+Mar  7 05:17:01 sys320 CRON[92509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 05:17:01 sys320 CRON[92509]: pam_unix(cron:session): session closed for user root
+Mar  7 06:17:01 sys320 CRON[92650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 06:17:01 sys320 CRON[92650]: pam_unix(cron:session): session closed for user root
+Mar  7 07:17:01 sys320 CRON[92791]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 07:17:01 sys320 CRON[92791]: pam_unix(cron:session): session closed for user root
+Mar  7 08:10:01 sys320 CRON[92920]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 08:10:01 sys320 CRON[92920]: pam_unix(cron:session): session closed for user root
+Mar  7 08:17:01 sys320 CRON[92944]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 08:17:01 sys320 CRON[92944]: pam_unix(cron:session): session closed for user root
+Mar  7 09:17:01 sys320 CRON[93129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 09:17:01 sys320 CRON[93129]: pam_unix(cron:session): session closed for user root
+Mar  7 10:17:01 sys320 CRON[93295]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 10:17:01 sys320 CRON[93295]: pam_unix(cron:session): session closed for user root
+Mar  7 11:17:01 sys320 CRON[93899]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 11:17:01 sys320 CRON[93899]: pam_unix(cron:session): session closed for user root
+Mar  7 11:25:01 sys320 CRON[93926]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 11:25:02 sys320 CRON[93926]: pam_unix(cron:session): session closed for user root
+Mar  7 12:17:01 sys320 CRON[94208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 12:17:01 sys320 CRON[94208]: pam_unix(cron:session): session closed for user root
+Mar  7 13:17:01 sys320 CRON[94348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 13:17:01 sys320 CRON[94348]: pam_unix(cron:session): session closed for user root
+Mar  7 14:17:01 sys320 CRON[94489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 14:17:01 sys320 CRON[94489]: pam_unix(cron:session): session closed for user root
+Mar  7 15:17:01 sys320 CRON[94694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 15:17:01 sys320 CRON[94694]: pam_unix(cron:session): session closed for user root
+Mar  7 15:27:20 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  7 15:27:20 sys320 lsass: message repeated 3 times: [ GSSAPI Error: The referenced context has expired (Unknown error)]
+Mar  7 15:27:20 sys320 sshd[94726]: Accepted password for noah.stiles from 192.168.6.72 port 55814 ssh2
+Mar  7 15:27:20 sys320 sshd[94726]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:27:20 sys320 sshd[94726]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:27:37 sys320 sshd[94835]: Accepted password for noah.stiles from 192.168.6.72 port 55832 ssh2
+Mar  7 15:27:37 sys320 sshd[94835]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:27:37 sys320 sshd[94835]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:27:38 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:27:38 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:27:38 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:27:38 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:27:38 sys320 sshd[94835]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 15:28:50 sys320 sshd[94915]: dispatch_protocol_error: type 90 seq 5 [preauth]
+Mar  7 15:30:59 sys320 su: (to noah.stiles) ubuntu on pts/0
+Mar  7 15:30:59 sys320 su: pam_unix(su-l:session): session opened for user noah.stiles by ubuntu(uid=0)
+Mar  7 15:37:06 sys320 sshd[94973]: Accepted password for noah.stiles from 192.168.6.72 port 55882 ssh2
+Mar  7 15:37:06 sys320 sshd[94973]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:37:06 sys320 sshd[94973]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:37:23 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:37:23 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:37:23 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:37:23 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:37:59 sys320 su: pam_unix(su-l:session): session closed for user noah.stiles
+Mar  7 15:40:21 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:40:21 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:40:21 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:40:21 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:40:42 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:40:42 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:40:42 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:40:42 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:41:55 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:41:55 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:41:55 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:41:55 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:42:52 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:42:52 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:42:52 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:42:52 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:45:02 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:45:02 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:45:02 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:45:02 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:45:08 sys320 sshd[95430]: Accepted password for noah.stiles from 192.168.6.72 port 55911 ssh2
+Mar  7 15:45:08 sys320 sshd[95430]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:45:08 sys320 sshd[95430]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:45:24 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:45:24 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:45:24 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:45:24 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:45:40 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:45:40 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:45:40 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:45:40 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:47:28 sys320 sshd[95616]: Accepted password for noah.stiles from 192.168.6.72 port 55916 ssh2
+Mar  7 15:47:28 sys320 sshd[95616]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:47:28 sys320 sshd[95616]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:47:37 sys320 sshd[95701]: Accepted password for noah.stiles from 192.168.6.72 port 55918 ssh2
+Mar  7 15:47:37 sys320 sshd[95701]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:47:37 sys320 sshd[95701]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:49:37 sys320 sudo: noah.stiles : problem with defaults entries ; TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; 
+Mar  7 15:49:37 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:49:37 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:49:37 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:51:12 sys320 sudo:     root : problem with defaults entries ; TTY=pts/0 ; PWD=/root ; USER=root ; 
+Mar  7 15:51:12 sys320 sudo:     root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/vi /etc/nsswitch.conf
+Mar  7 15:51:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Mar  7 15:51:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 15:51:34 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:51:34 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:51:34 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:51:39 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:51:39 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:51:39 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:52:44 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:52:44 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:52:44 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:52:47 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:52:47 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:52:47 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:53:31 sys320 sshd[95927]: Accepted keyboard-interactive/pam for noah.stiles from 192.168.6.72 port 55939 ssh2
+Mar  7 15:53:31 sys320 sshd[95927]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 15:53:31 sys320 sshd[95927]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 15:53:59 sys320 sudo: noah.stiles : TTY=pts/2 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 15:53:59 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  7 15:54:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 15:55:10 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 15:55:10 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 15:55:10 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 15:56:14 sys320 sudo: noah.stiles : TTY=pts/2 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/local/bin/ls
+Mar  7 15:56:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  7 15:56:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 16:02:18 sys320 sshd[96106]: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:40022]
+Mar  7 16:02:18 sys320 sshd[96106]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.6.72  user=noah.stiles
+Mar  7 16:02:20 sys320 sshd[96106]: Failed password for noah.stiles from 192.168.6.72 port 57232 ssh2
+Mar  7 16:02:20 sys320 sshd[96106]: dispatch_protocol_error: type 90 seq 5 [preauth]
+Mar  7 16:03:13 sys320 sshd[96115]: Accepted password for noah.stiles from 192.168.6.72 port 57241 ssh2
+Mar  7 16:03:13 sys320 sshd[96115]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 16:03:13 sys320 sshd[96115]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 16:03:14 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 16:03:14 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 16:03:14 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 16:05:13 sys320 sudo: noah.stiles : TTY=pts/2 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 16:05:13 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  7 16:05:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 16:07:47 sys320 sshd[95927]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:07:51 sys320 sshd[96115]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:07:51 sys320 sshd[95616]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:07:51 sys320 sshd[94726]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:07:51 sys320 sshd[95701]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:07:51 sys320 sshd[94973]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:07:51 sys320 sshd[95430]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  7 16:17:01 sys320 CRON[96292]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 16:17:01 sys320 CRON[96292]: pam_unix(cron:session): session closed for user root
+Mar  7 16:41:38 sys320 su: pam_unix(su-l:session): session closed for user root
+Mar  7 16:41:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 16:41:39 sys320 sshd[32490]: pam_unix(sshd:session): session closed for user ubuntu
+Mar  7 16:41:39 sys320 systemd-logind[725]: Session 77 logged out. Waiting for processes to exit.
+Mar  7 16:41:39 sys320 systemd-logind[725]: Removed session 77.
+Mar  7 17:17:01 sys320 CRON[96444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 17:17:01 sys320 CRON[96444]: pam_unix(cron:session): session closed for user root
+Mar  7 18:17:01 sys320 CRON[96584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 18:17:01 sys320 CRON[96584]: pam_unix(cron:session): session closed for user root
+Mar  7 19:17:01 sys320 CRON[96727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 19:17:01 sys320 CRON[96727]: pam_unix(cron:session): session closed for user root
+Mar  7 19:29:01 sys320 CRON[96765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 19:29:01 sys320 CRON[96765]: pam_unix(cron:session): session closed for user root
+Mar  7 20:17:01 sys320 CRON[96880]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 20:17:01 sys320 CRON[96880]: pam_unix(cron:session): session closed for user root
+Mar  7 21:14:36 sys320 sshd[97076]: Accepted password for christopher.mchugh from 192.168.6.73 port 52461 ssh2
+Mar  7 21:14:36 sys320 sshd[97076]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 21:14:36 sys320 sshd[97076]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 21:17:01 sys320 CRON[97186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 21:17:01 sys320 CRON[97186]: pam_unix(cron:session): session closed for user root
+Mar  7 21:44:42 sys320 sshd[97076]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 21:50:16 sys320 sshd[97274]: Accepted password for christopher.mchugh from 192.168.6.73 port 53957 ssh2
+Mar  7 21:50:16 sys320 sshd[97274]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 21:50:16 sys320 sshd[97274]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 21:50:28 sys320 sshd[97274]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 21:50:28 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f output.txt
+Mar  7 21:50:28 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 21:50:28 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 21:50:49 sys320 sshd[97368]: Accepted password for christopher.mchugh from 192.168.6.73 port 53967 ssh2
+Mar  7 21:50:49 sys320 sshd[97368]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 21:50:49 sys320 sshd[97368]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 22:17:01 sys320 CRON[97502]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 22:17:01 sys320 CRON[97502]: pam_unix(cron:session): session closed for user root
+Mar  7 22:20:56 sys320 sshd[97368]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:01:49 sys320 sshd[97632]: Accepted password for asani.vessup from 184.171.146.114 port 59369 ssh2
+Mar  7 23:01:49 sys320 sshd[97632]: pam_unix(sshd:session): session opened for user asani.vessup by (uid=0)
+Mar  7 23:01:49 sys320 sshd[97632]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:01:50 sys320 sshd[97632]: pam_unix(sshd:session): session closed for user asani.vessup
+Mar  7 23:17:01 sys320 CRON[97836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  7 23:17:01 sys320 CRON[97836]: pam_unix(cron:session): session closed for user root
+Mar  7 23:21:33 sys320 sshd[97855]: Accepted password for christopher.mchugh from 192.168.6.73 port 56408 ssh2
+Mar  7 23:21:33 sys320 sshd[97855]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:21:33 sys320 sshd[97855]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:21:50 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f str
+Mar  7 23:21:50 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:21:50 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:22:05 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f pid
+Mar  7 23:22:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:22:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:22:20 sys320 sshd[97855]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:22:20 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f yara.txt
+Mar  7 23:22:20 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:22:20 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:22:38 sys320 sshd[97946]: Accepted password for christopher.mchugh from 192.168.6.73 port 56416 ssh2
+Mar  7 23:22:38 sys320 sshd[97946]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:22:38 sys320 sshd[97946]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:27:45 sys320 sshd[98035]: Accepted password for christopher.mchugh from 192.168.6.73 port 56480 ssh2
+Mar  7 23:27:45 sys320 sshd[98035]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:27:45 sys320 sshd[98035]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:28:02 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/ubuntu/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 23:28:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:28:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:28:18 sys320 sshd[98035]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:32:44 sys320 sshd[98130]: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:christopher.mchugh][error code:40022]
+Mar  7 23:32:44 sys320 sshd[98130]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.6.73  user=christopher.mchugh
+Mar  7 23:32:47 sys320 sshd[98130]: Failed password for christopher.mchugh from 192.168.6.73 port 56571 ssh2
+Mar  7 23:32:56 sys320 sshd[98139]: Accepted password for christopher.mchugh from 192.168.6.73 port 56572 ssh2
+Mar  7 23:32:56 sys320 sshd[98139]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:32:56 sys320 sshd[98139]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:33:12 sys320 sshd[98139]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:33:12 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/ubuntu/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 23:33:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:33:25 sys320 sshd[98222]: Accepted password for christopher.mchugh from 192.168.6.73 port 56583 ssh2
+Mar  7 23:33:25 sys320 sshd[98222]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:33:25 sys320 sshd[98222]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:33:28 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:34:36 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/ubuntu/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 23:34:36 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:34:36 sys320 sshd[98222]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:34:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:35:22 sys320 sshd[98315]: Accepted password for christopher.mchugh from 192.168.6.73 port 56609 ssh2
+Mar  7 23:35:22 sys320 sshd[98315]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:35:22 sys320 sshd[98315]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:35:30 sys320 sshd[98315]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:35:30 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f detect
+Mar  7 23:35:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:35:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:39:12 sys320 sshd[98408]: Accepted password for christopher.mchugh from 192.168.6.73 port 56699 ssh2
+Mar  7 23:39:12 sys320 sshd[98408]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:39:12 sys320 sshd[98408]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:40:12 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  7 23:40:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:40:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:40:27 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  7 23:40:27 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:40:27 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:57:02 sys320 sshd[98570]: Accepted password for noah.stiles from 192.168.6.72 port 58563 ssh2
+Mar  7 23:57:02 sys320 sshd[98570]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 23:57:02 sys320 sshd[98570]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:57:12 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/ubuntu/kraken --rules yara --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 23:57:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:57:17 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  7 23:57:18 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  7 23:57:18 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  7 23:57:28 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:57:50 sys320 sshd[97946]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  7 23:58:50 sys320 sshd[98675]: Accepted password for christopher.mchugh from 192.168.6.73 port 57008 ssh2
+Mar  7 23:58:50 sys320 sshd[98675]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  7 23:58:50 sys320 sshd[98675]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:59:16 sys320 sshd[98750]: Accepted keyboard-interactive/pam for noah.stiles from 192.168.6.72 port 58606 ssh2
+Mar  7 23:59:17 sys320 sshd[98750]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  7 23:59:17 sys320 sshd[98750]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  7 23:59:27 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/ubuntu/kraken --folder /etc/passwd --folder /var/log/auth.log
+Mar  7 23:59:27 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  7 23:59:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  7 23:59:57 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  7 23:59:57 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 00:00:13 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:01:28 sys320 sshd[98895]: Accepted password for noah.stiles from 192.168.6.72 port 58613 ssh2
+Mar  8 00:01:28 sys320 sshd[98895]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:01:28 sys320 sshd[98895]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:03:24 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 00:03:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 00:03:36 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:03:48 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 00:03:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 00:04:04 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:05:25 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 00:05:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 00:05:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:17:01 sys320 CRON[99050]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 00:17:01 sys320 CRON[99050]: pam_unix(cron:session): session closed for user root
+Mar  8 00:28:54 sys320 sshd[98408]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 00:29:44 sys320 sshd[98675]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 00:34:44 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 00:34:44 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 00:34:44 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 00:36:32 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 00:36:32 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 00:36:32 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 00:36:32 sys320 sshd[98895]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 00:36:32 sys320 sshd[98570]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 00:37:35 sys320 sshd[99214]: Accepted password for noah.stiles from 192.168.6.72 port 59125 ssh2
+Mar  8 00:37:35 sys320 sshd[99214]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:37:35 sys320 sshd[99214]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:38:07 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:38:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 00:38:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:40:27 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 00:40:27 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 00:40:27 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 00:40:27 sys320 sshd[99214]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 00:40:50 sys320 sshd[99339]: Accepted password for noah.stiles from 192.168.6.72 port 59325 ssh2
+Mar  8 00:40:50 sys320 sshd[99339]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:40:50 sys320 sshd[99339]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:40:50 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:40:50 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:40:50 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:41:29 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:41:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:41:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:45:30 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:45:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:45:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:45:56 sys320 sshd[99453]: Accepted password for noah.stiles from 192.168.6.72 port 59351 ssh2
+Mar  8 00:45:56 sys320 sshd[99453]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:45:56 sys320 sshd[99453]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:45:57 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 00:45:57 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 00:45:57 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 00:45:57 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:45:57 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:45:57 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:47:15 sys320 sshd[99535]: Accepted password for noah.stiles from 192.168.6.72 port 59353 ssh2
+Mar  8 00:47:16 sys320 sshd[99535]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:47:16 sys320 sshd[99535]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:47:16 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 00:47:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:47:16 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:47:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:47:16 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:47:33 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:48:30 sys320 sshd[99634]: Accepted password for noah.stiles from 192.168.6.72 port 59356 ssh2
+Mar  8 00:48:30 sys320 sshd[99634]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:48:30 sys320 sshd[99634]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:48:30 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/home/noah.stiles/kraken --folder /usr/bin --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 00:48:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:48:30 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:48:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:48:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:48:44 sys320 sshd[99727]: Accepted password for noah.stiles from 192.168.6.72 port 59357 ssh2
+Mar  8 00:48:44 sys320 sshd[99727]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:48:44 sys320 sshd[99727]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:48:45 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:48:45 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:48:45 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:48:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:49:38 sys320 sshd[99808]: Accepted password for noah.stiles from 192.168.6.72 port 59366 ssh2
+Mar  8 00:49:38 sys320 sshd[99808]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 00:49:38 sys320 sshd[99808]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 00:49:39 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:49:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:49:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:50:21 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:50:21 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:50:21 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:50:49 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:50:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 00:50:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 00:50:53 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 00:50:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 00:50:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:17:01 sys320 CRON[100434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 01:17:01 sys320 CRON[100434]: pam_unix(cron:session): session closed for user root
+Mar  8 01:27:24 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 01:27:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:27:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:27:24 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3027
+Mar  8 01:27:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:27:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:27:25 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3025
+Mar  8 01:27:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:27:25 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:40:34 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 01:40:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:40:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:42:50 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:42:50 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:42:50 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:43:09 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:43:09 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:43:09 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:45:56 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/noah.stiles.auth.log
+Mar  8 01:45:56 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:45:56 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:46:54 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/nsauth.txt
+Mar  8 01:46:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:46:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:47:24 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/nsauth.txt
+Mar  8 01:47:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:47:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:48:17 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cat nsauth.txt
+Mar  8 01:48:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 01:48:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:49:01 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/nsauth.txt
+Mar  8 01:49:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:49:01 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:49:11 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/nsauth.txt
+Mar  8 01:49:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:49:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:50:14 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/nsauth
+Mar  8 01:50:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:50:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:50:26 sys320 sshd[100665]: Accepted password for noah.stiles from 192.168.6.72 port 49867 ssh2
+Mar  8 01:50:26 sys320 sshd[100665]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 01:50:26 sys320 sshd[100665]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 01:51:11 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 01:51:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:51:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:51:11 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3027
+Mar  8 01:51:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:51:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:51:12 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3025
+Mar  8 01:51:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:51:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:51:14 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:51:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:51:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:51:14 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/nsauth
+Mar  8 01:51:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:51:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:52:45 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 01:52:45 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 01:52:45 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 01:52:54 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 01:52:54 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 01:52:54 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 01:53:17 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 01:53:17 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 01:53:17 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 01:53:25 sys320 sshd[101168]: Accepted password for noah.stiles from 192.168.6.72 port 49897 ssh2
+Mar  8 01:53:25 sys320 sshd[101168]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 01:53:25 sys320 sshd[101168]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 01:54:12 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 01:54:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:54:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:54:12 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3027
+Mar  8 01:54:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:54:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:54:12 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3025
+Mar  8 01:54:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:54:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:54:14 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:54:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:54:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:54:14 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 01:54:14 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 01:54:14 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 01:55:11 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cat auth.log
+Mar  8 01:55:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 01:55:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:55:23 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 01:55:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:55:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:55:50 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 01:55:50 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:55:50 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:59:41 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:59:41 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:59:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:59:44 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:59:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:59:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 01:59:58 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 01:59:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 01:59:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:00:04 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 02:00:04 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 02:00:04 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:00:36 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 02:00:36 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 02:00:36 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 02:00:36 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 02:00:36 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:noah.stiles][error code:49919]
+Mar  8 02:00:36 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [noah.stiles]
+Mar  8 02:00:36 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 02:00:36 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 02:00:36 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:01:52 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 02:01:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 02:01:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:02:14 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cat auth.log
+Mar  8 02:02:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 02:02:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:02:27 sys320 sudo: noah.stiles : TTY=pts/0 ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/chown noah.stiles auth.log
+Mar  8 02:02:27 sys320 sudo: pam_unix(sudo:session): session opened for user root by noah.stiles(uid=0)
+Mar  8 02:02:27 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:02:41 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 02:02:41 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 02:02:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:02:41 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/chown naoh.stiles /home/noah.stiles/auth.log
+Mar  8 02:02:41 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 02:02:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 02:07:00 sys320 sshd[100665]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[99727]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[99535]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[99339]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[99808]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[99634]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[99453]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:07:00 sys320 sshd[101168]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 02:17:01 sys320 CRON[101767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 02:17:01 sys320 CRON[101767]: pam_unix(cron:session): session closed for user root
+Mar  8 03:06:40 sys320 sshd[101886]: Accepted password for sebastian.meredith from 192.168.6.73 port 58512 ssh2
+Mar  8 03:06:40 sys320 sshd[101886]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 03:06:40 sys320 sshd[101886]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 03:06:41 sys320 sshd[101886]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 03:17:01 sys320 CRON[102012]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 03:17:01 sys320 CRON[102012]: pam_unix(cron:session): session closed for user root
+Mar  8 04:14:02 sys320 sshd[98750]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  8 04:17:01 sys320 CRON[102201]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 04:17:01 sys320 CRON[102201]: pam_unix(cron:session): session closed for user root
+Mar  8 05:17:01 sys320 CRON[102375]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 05:17:01 sys320 CRON[102375]: pam_unix(cron:session): session closed for user root
+Mar  8 06:17:01 sys320 CRON[102554]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 06:17:02 sys320 CRON[102554]: pam_unix(cron:session): session closed for user root
+Mar  8 07:17:01 sys320 CRON[102695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 07:17:01 sys320 CRON[102695]: pam_unix(cron:session): session closed for user root
+Mar  8 08:10:01 sys320 CRON[102821]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 08:10:01 sys320 CRON[102821]: pam_unix(cron:session): session closed for user root
+Mar  8 08:17:01 sys320 CRON[102843]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 08:17:01 sys320 CRON[102843]: pam_unix(cron:session): session closed for user root
+Mar  8 09:17:01 sys320 CRON[103472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 09:17:01 sys320 CRON[103472]: pam_unix(cron:session): session closed for user root
+Mar  8 10:17:01 sys320 CRON[103611]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 10:17:01 sys320 CRON[103611]: pam_unix(cron:session): session closed for user root
+Mar  8 11:17:01 sys320 CRON[103753]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 11:17:01 sys320 CRON[103753]: pam_unix(cron:session): session closed for user root
+Mar  8 11:25:01 sys320 CRON[103780]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 11:25:01 sys320 CRON[103780]: pam_unix(cron:session): session closed for user root
+Mar  8 12:17:01 sys320 CRON[104091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 12:17:01 sys320 CRON[104091]: pam_unix(cron:session): session closed for user root
+Mar  8 13:17:01 sys320 CRON[104276]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 13:17:01 sys320 CRON[104276]: pam_unix(cron:session): session closed for user root
+Mar  8 14:17:01 sys320 CRON[104417]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 14:17:01 sys320 CRON[104417]: pam_unix(cron:session): session closed for user root
+Mar  8 15:17:01 sys320 CRON[104559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 15:17:01 sys320 CRON[104559]: pam_unix(cron:session): session closed for user root
+Mar  8 15:36:51 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  8 15:36:51 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  8 15:36:51 sys320 sshd[104613]: Accepted publickey for ubuntu from 10.223.0.1 port 49938 ssh2: RSA SHA256:egsBZnAQxd1JFv6FDS+YcHIvTtucHnKjO9LUv0tKm48
+Mar  8 15:36:51 sys320 sshd[104613]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar  8 15:36:51 sys320 systemd-logind[725]: New session 645 of user ubuntu.
+Mar  8 16:17:01 sys320 CRON[104839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 16:17:01 sys320 CRON[104839]: pam_unix(cron:session): session closed for user root
+Mar  8 17:17:01 sys320 CRON[105015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 17:17:01 sys320 CRON[105015]: pam_unix(cron:session): session closed for user root
+Mar  8 17:58:03 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  8 17:58:04 sys320 lsass: GSSAPI Error: The referenced context has expired (Unknown error)
+Mar  8 17:58:04 sys320 sshd[105118]: Accepted password for christopher.mchugh from 192.168.6.73 port 63804 ssh2
+Mar  8 17:58:04 sys320 sshd[105118]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 17:58:04 sys320 sshd[105118]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 17:58:12 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/ps
+Mar  8 17:58:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 17:58:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 17:58:34 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/ps -aux
+Mar  8 17:58:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 17:58:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:00:04 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/ps -a
+Mar  8 18:00:04 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:00:04 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:04:40 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 18:04:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:04:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:05:39 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 18:05:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:05:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:15:31 sys320 sshd[105319]: Accepted password for christopher.mchugh from 192.168.6.73 port 64024 ssh2
+Mar  8 18:15:31 sys320 sshd[105319]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 18:15:31 sys320 sshd[105319]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 18:17:01 sys320 CRON[105403]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 18:17:01 sys320 CRON[105403]: pam_unix(cron:session): session closed for user root
+Mar  8 18:30:40 sys320 sshd[105319]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 18:32:03 sys320 sshd[105464]: Accepted password for christopher.mchugh from 192.168.6.73 port 64184 ssh2
+Mar  8 18:32:03 sys320 sshd[105464]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 18:32:03 sys320 sshd[105464]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 18:33:23 sys320 sshd[105464]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 18:33:52 sys320 sshd[105561]: Accepted password for christopher.mchugh from 192.168.6.73 port 64224 ssh2
+Mar  8 18:33:52 sys320 sshd[105561]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 18:33:52 sys320 sshd[105561]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 18:34:01 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/ubuntu/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 18:34:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:34:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:34:19 sys320 sshd[105561]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 18:39:48 sys320 sshd[105655]: Accepted password for christopher.mchugh from 192.168.6.73 port 64363 ssh2
+Mar  8 18:39:49 sys320 sshd[105655]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 18:39:49 sys320 sshd[105655]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 18:40:01 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/ps -aux
+Mar  8 18:40:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:40:01 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:40:01 sys320 sshd[105655]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 18:40:39 sys320 sshd[105737]: Accepted password for christopher.mchugh from 192.168.6.73 port 64379 ssh2
+Mar  8 18:40:39 sys320 sshd[105737]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 18:40:39 sys320 sshd[105737]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 18:40:46 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 18:40:46 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:40:46 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:40:46 sys320 sshd[105737]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 18:41:32 sys320 sshd[105822]: Accepted password for christopher.mchugh from 192.168.6.73 port 64416 ssh2
+Mar  8 18:41:32 sys320 sshd[105822]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 18:41:32 sys320 sshd[105822]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 18:41:48 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 18:41:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 18:41:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 18:41:49 sys320 sshd[105822]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 18:45:34 sys320 sshd[105118]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 19:03:09 sys320 sshd[106016]: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:christopher.mchugh][error code:40022]
+Mar  8 19:03:09 sys320 sshd[106016]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.6.73  user=christopher.mchugh
+Mar  8 19:03:10 sys320 sshd[106016]: Failed password for christopher.mchugh from 192.168.6.73 port 64696 ssh2
+Mar  8 19:06:08 sys320 sshd[106044]: Accepted password for christopher.mchugh from 192.168.6.73 port 64768 ssh2
+Mar  8 19:06:08 sys320 sshd[106044]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 19:06:08 sys320 sshd[106044]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 19:06:17 sys320 sshd[106044]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 19:06:17 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f kraken
+Mar  8 19:06:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 19:06:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 19:06:36 sys320 sshd[106152]: Accepted password for christopher.mchugh from 192.168.6.73 port 64772 ssh2
+Mar  8 19:06:36 sys320 sshd[106152]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 19:06:36 sys320 sshd[106152]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 19:07:07 sys320 sshd[106229]: Accepted publickey for ubuntu from 10.223.0.1 port 49978 ssh2: RSA SHA256:egsBZnAQxd1JFv6FDS+YcHIvTtucHnKjO9LUv0tKm48
+Mar  8 19:07:07 sys320 sshd[106229]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Mar  8 19:07:07 sys320 systemd-logind[725]: New session 658 of user ubuntu.
+Mar  8 19:07:09 sys320 sudo:   ubuntu : TTY=pts/2 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/su -
+Mar  8 19:07:09 sys320 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Mar  8 19:07:09 sys320 su: (to root) ubuntu on pts/2
+Mar  8 19:07:09 sys320 su: pam_unix(su-l:session): session opened for user root by ubuntu(uid=0)
+Mar  8 19:08:18 sys320 su: pam_unix(su-l:session): session closed for user root
+Mar  8 19:08:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 19:08:19 sys320 sshd[106229]: pam_unix(sshd:session): session closed for user ubuntu
+Mar  8 19:08:19 sys320 systemd-logind[725]: Session 658 logged out. Waiting for processes to exit.
+Mar  8 19:08:19 sys320 systemd-logind[725]: Removed session 658.
+Mar  8 19:10:08 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/chmod +x kraken
+Mar  8 19:10:08 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 19:10:08 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 19:10:08 sys320 sshd[106152]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 19:10:24 sys320 sshd[106449]: Accepted password for christopher.mchugh from 192.168.6.73 port 64832 ssh2
+Mar  8 19:10:24 sys320 sshd[106449]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 19:10:24 sys320 sshd[106449]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 19:10:45 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/christopher.mchugh/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 19:10:45 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 19:11:01 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 19:11:01 sys320 sshd[106449]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 19:17:01 sys320 CRON[106545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 19:17:01 sys320 CRON[106545]: pam_unix(cron:session): session closed for user root
+Mar  8 19:29:01 sys320 CRON[106582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 19:29:01 sys320 CRON[106582]: pam_unix(cron:session): session closed for user root
+Mar  8 19:32:08 sys320 sshd[106597]: Accepted password for christopher.mchugh from 192.168.6.73 port 65135 ssh2
+Mar  8 19:32:08 sys320 sshd[106597]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 19:32:08 sys320 sshd[106597]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 19:32:25 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/grep http-alt /etc/services
+Mar  8 19:32:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 19:32:25 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 19:32:25 sys320 sshd[106597]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 19:39:23 sys320 sshd[106697]: Accepted password for christopher.mchugh from 192.168.6.73 port 65221 ssh2
+Mar  8 19:39:23 sys320 sshd[106697]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 19:39:23 sys320 sshd[106697]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 19:52:34 sys320 sshd[106697]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 19:52:46 sys320 sshd[106852]: Accepted password for christopher.mchugh from 192.168.6.73 port 65416 ssh2
+Mar  8 19:52:46 sys320 sshd[106852]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 19:52:46 sys320 sshd[106852]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 19:59:07 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/home/christopher.mchugh/test
+Mar  8 19:59:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 19:59:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:00:35 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk /home/christopher.mchugh/test
+Mar  8 20:00:35 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:00:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:04:17 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk /home/christopher.mchugh/test
+Mar  8 20:04:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:04:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:07:33 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk /home/christopher.mchugh/test
+Mar  8 20:07:33 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:07:33 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:07:46 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/dir
+Mar  8 20:07:46 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:07:46 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:07:51 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/dir
+Mar  8 20:07:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:07:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:07:56 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/dir
+Mar  8 20:07:56 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:07:56 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:11:19 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/.d.log /home/christopher.mchugh/log
+Mar  8 20:11:19 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:11:19 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:11:19 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 20:11:19 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:christopher.mchugh][error code:49919]
+Mar  8 20:11:19 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [christopher.mchugh]
+Mar  8 20:11:27 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/dir
+Mar  8 20:11:27 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:11:27 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:11:54 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/christopher.mchugh/log
+Mar  8 20:11:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:11:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:11:54 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 20:11:54 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:christopher.mchugh][error code:49919]
+Mar  8 20:11:54 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [christopher.mchugh]
+Mar  8 20:12:34 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/.d.log /home/christopher.mchugh/log
+Mar  8 20:12:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:12:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:12:34 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 20:12:34 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:christopher.mchugh][error code:49919]
+Mar  8 20:12:34 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [christopher.mchugh]
+Mar  8 20:17:01 sys320 CRON[107129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 20:17:02 sys320 CRON[107129]: pam_unix(cron:session): session closed for user root
+Mar  8 20:33:39 sys320 sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/su -
+Mar  8 20:33:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Mar  8 20:33:39 sys320 su: (to root) ubuntu on pts/0
+Mar  8 20:33:39 sys320 su: pam_unix(su-l:session): session opened for user root by ubuntu(uid=0)
+Mar  8 20:34:42 sys320 su: pam_unix(su-l:session): session closed for user root
+Mar  8 20:34:42 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:34:44 sys320 sshd[104613]: pam_unix(sshd:session): session closed for user ubuntu
+Mar  8 20:34:44 sys320 systemd-logind[725]: Session 645 logged out. Waiting for processes to exit.
+Mar  8 20:34:44 sys320 systemd-logind[725]: Removed session 645.
+Mar  8 20:37:26 sys320 sshd[107272]: Accepted password for samuel.barrows from 184.171.155.18 port 63038 ssh2
+Mar  8 20:37:26 sys320 sshd[107272]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  8 20:37:26 sys320 sshd[107272]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 20:37:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/whoami
+Mar  8 20:37:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:37:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:50:33 sys320 sshd[106852]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 20:51:19 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 20:51:19 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:samuel.barrows][error code:49919]
+Mar  8 20:51:19 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [samuel.barrows]
+Mar  8 20:52:21 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/whoami
+Mar  8 20:52:21 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:52:21 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:52:39 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/whoami
+Mar  8 20:52:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:52:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:52:58 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/whoami
+Mar  8 20:52:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:52:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:54:10 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls
+Mar  8 20:54:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:54:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:54:29 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls
+Mar  8 20:54:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:54:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 20:54:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/pwd
+Mar  8 20:54:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 20:54:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 21:17:02 sys320 CRON[107616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 21:17:02 sys320 CRON[107616]: pam_unix(cron:session): session closed for user root
+Mar  8 21:19:38 sys320 sshd[107631]: Accepted password for sebastian.meredith from 192.168.6.73 port 52247 ssh2
+Mar  8 21:19:38 sys320 sshd[107631]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 21:19:38 sys320 sshd[107631]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 21:19:40 sys320 sshd[107631]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 21:46:22 sys320 sshd[107774]: Accepted password for sebastian.meredith from 192.168.6.73 port 52823 ssh2
+Mar  8 21:46:22 sys320 sshd[107774]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 21:46:22 sys320 sshd[107774]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 21:47:15 sys320 sshd[107879]: Accepted password for sebastian.meredith from 192.168.6.73 port 52868 ssh2
+Mar  8 21:47:15 sys320 sshd[107879]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 21:47:15 sys320 sshd[107879]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 21:47:17 sys320 sshd[107879]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 21:49:59 sys320 sshd[107973]: Accepted password for sebastian.meredith from 192.168.6.73 port 52976 ssh2
+Mar  8 21:49:59 sys320 sshd[107973]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 21:49:59 sys320 sshd[107973]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 21:50:00 sys320 sshd[107973]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 21:51:28 sys320 sshd[108064]: Accepted password for sebastian.meredith from 192.168.6.73 port 53001 ssh2
+Mar  8 21:51:28 sys320 sshd[108064]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 21:51:28 sys320 sshd[108064]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 21:51:31 sys320 sshd[108064]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 22:16:23 sys320 sshd[107774]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 22:17:01 sys320 CRON[108220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 22:17:01 sys320 CRON[108220]: pam_unix(cron:session): session closed for user root
+Mar  8 22:18:32 sys320 sshd[108233]: Accepted password for christopher.mchugh from 192.168.6.73 port 53634 ssh2
+Mar  8 22:18:32 sys320 sshd[108233]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 22:18:32 sys320 sshd[108233]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:18:44 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/rm -f kraken
+Mar  8 22:18:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:18:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:18:50 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/dir
+Mar  8 22:18:50 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:18:50 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:19:46 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/chmod +x kraken
+Mar  8 22:19:46 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:19:46 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:19:46 sys320 sshd[108233]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 22:20:12 sys320 sshd[108324]: Accepted password for christopher.mchugh from 192.168.6.73 port 53685 ssh2
+Mar  8 22:20:12 sys320 sshd[108324]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 22:20:12 sys320 sshd[108324]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:20:30 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/home/christopher.mchugh/kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 22:20:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:20:46 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:20:46 sys320 sshd[108324]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 22:21:24 sys320 sshd[108407]: Postponed keyboard-interactive for eli.minkoff from 184.171.144.168 port 55614 ssh2 [preauth]
+Mar  8 22:21:31 sys320 sshd[108407]: Postponed keyboard-interactive/pam for eli.minkoff from 184.171.144.168 port 55614 ssh2 [preauth]
+Mar  8 22:21:31 sys320 sshd[108407]: Accepted keyboard-interactive/pam for eli.minkoff from 184.171.144.168 port 55614 ssh2
+Mar  8 22:21:31 sys320 sshd[108407]: pam_unix(sshd:session): session opened for user eli.minkoff by (uid=0)
+Mar  8 22:21:31 sys320 sshd[108407]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:21:31 sys320 sshd[108488]: Received disconnect from 184.171.144.168 port 55614:11: disconnected by user
+Mar  8 22:21:31 sys320 sshd[108488]: Disconnected from user eli.minkoff 184.171.144.168 port 55614
+Mar  8 22:21:31 sys320 sshd[108407]: pam_unix(sshd:session): session closed for user eli.minkoff
+Mar  8 22:21:45 sys320 sshd[108490]: Postponed keyboard-interactive for eli.minkoff from 184.171.144.168 port 55616 ssh2 [preauth]
+Mar  8 22:21:53 sys320 sshd[108490]: Postponed keyboard-interactive/pam for eli.minkoff from 184.171.144.168 port 55616 ssh2 [preauth]
+Mar  8 22:21:53 sys320 sshd[108490]: Accepted keyboard-interactive/pam for eli.minkoff from 184.171.144.168 port 55616 ssh2
+Mar  8 22:21:53 sys320 sshd[108490]: pam_unix(sshd:session): session opened for user eli.minkoff by (uid=0)
+Mar  8 22:21:53 sys320 sshd[108490]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:22:39 sys320 sshd[108564]: Received disconnect from 184.171.144.168 port 55616:11: disconnected by user
+Mar  8 22:22:39 sys320 sshd[108564]: Disconnected from user eli.minkoff 184.171.144.168 port 55616
+Mar  8 22:22:39 sys320 sshd[108490]: pam_unix(sshd:session): session closed for user eli.minkoff
+Mar  8 22:23:06 sys320 sshd[108773]: Accepted password for christopher.mchugh from 192.168.6.73 port 53753 ssh2
+Mar  8 22:23:06 sys320 sshd[108773]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 22:23:06 sys320 sshd[108773]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:23:41 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 22:23:41 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:23:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:23:41 sys320 sshd[108773]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 22:23:59 sys320 sshd[108854]: Accepted password for christopher.mchugh from 192.168.6.73 port 53764 ssh2
+Mar  8 22:23:59 sys320 sshd[108854]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 22:23:59 sys320 sshd[108854]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:24:15 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 22:24:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:24:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:24:24 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  8 22:24:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:24:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:28:18 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/grep http-alt /etc/services
+Mar  8 22:28:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:28:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:35:47 sys320 sshd[108972]: Accepted password for samuel.barrows from 184.171.155.18 port 64392 ssh2
+Mar  8 22:35:47 sys320 sshd[108972]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  8 22:35:47 sys320 sshd[108972]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:35:50 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/pwd
+Mar  8 22:35:50 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:35:50 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:36:23 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 22:36:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:36:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:36:55 sys320 sshd[109070]: Accepted password for christopher.mchugh from 192.168.6.73 port 54108 ssh2
+Mar  8 22:36:55 sys320 sshd[109070]: pam_unix(sshd:session): session opened for user christopher.mchugh by (uid=0)
+Mar  8 22:36:55 sys320 sshd[109070]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:37:11 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/
+Mar  8 22:37:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:37:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:37:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 22:37:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:37:41 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/p.dalton
+Mar  8 22:37:41 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:37:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:37:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:39:56 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 22:39:56 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:40:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:41:25 sys320 sshd[109207]: Accepted password for noah.stiles from 192.168.6.72 port 63113 ssh2
+Mar  8 22:41:25 sys320 sshd[109207]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  8 22:41:25 sys320 sshd[109207]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 22:42:07 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 22:42:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:42:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:42:07 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3027
+Mar  8 22:42:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:42:08 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:42:08 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p 3025
+Mar  8 22:42:08 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:42:08 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:42:09 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:42:09 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)

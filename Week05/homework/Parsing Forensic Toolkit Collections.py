@@ -36,28 +36,7 @@ def load_yaml_rules(rules):
                 print(rlist)
         except EnvironmentError as e:
             print(e.strerror)
-    #print(rlist)
-    #for rule in rlist:
-        #print(rule)
-        # Want to get it so that for each rule in rlist we grab the detections
-        #rlist.append(rules)
-        #print(rlist)
-            #print(cheese)
-            #if rule in rlist:
-                #print(rlist)
-                #print(rules)
-                #rlist = rlist.append(rules)
-                #print(rlist)
 
-    '''
-            for rule in rlist:
-                print(rule)
-                if rule in rules:
-                    rlist = rule
-                    print(rlist)
-
-                    return rlist
-    '''
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
