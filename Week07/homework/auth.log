@@ -1364,3 +1364,1072 @@ Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session opened for user roo
 Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session closed for user root
 Mar  8 22:42:09 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
 Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:42:09 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:42:10 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/chown naoh.stiles /home/noah.stiles/auth.log
+Mar  8 22:42:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:42:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:42:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 22:42:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:43:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 22:45:23 sys320 sshd[109070]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 22:45:23 sys320 sshd[108854]: pam_unix(sshd:session): session closed for user christopher.mchugh
+Mar  8 22:59:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 22:59:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 22:59:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:00:01 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:00:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:00:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:03:13 sys320 sshd[110003]: Accepted keyboard-interactive/pam for john.tiseo from 184.171.150.151 port 60524 ssh2
+Mar  8 23:03:13 sys320 sshd[110003]: pam_unix(sshd:session): session opened for user john.tiseo by (uid=0)
+Mar  8 23:03:13 sys320 sshd[110003]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:03:22 sys320 sshd[110003]: pam_unix(sshd:session): session closed for user john.tiseo
+Mar  8 23:07:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:07:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:07:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:07:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 23:07:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:07:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:07:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  8 23:07:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:07:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:14:33 sys320 sshd[110198]: Accepted keyboard-interactive/pam for ciaran.byrne from 184.171.149.210 port 59010 ssh2
+Mar  8 23:14:33 sys320 sshd[110198]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:14:33 sys320 sshd[110198]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:15:18 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=list
+Mar  8 23:15:52 sys320 sshd[110323]: Accepted password for ciaran.byrne from 184.171.149.210 port 59014 ssh2
+Mar  8 23:15:52 sys320 sshd[110323]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:15:52 sys320 sshd[110323]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:15:55 sys320 sshd[110323]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:17:01 sys320 CRON[110412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 23:17:01 sys320 CRON[110412]: pam_unix(cron:session): session closed for user root
+Mar  8 23:20:27 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/usr/local/bin/ls
+Mar  8 23:20:27 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:20:27 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:20:33 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:20:33 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:20:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:23:08 sys320 sshd[110523]: Accepted password for ciaran.byrne from 184.171.149.210 port 59082 ssh2
+Mar  8 23:23:08 sys320 sshd[110523]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:23:08 sys320 sshd[110523]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:23:09 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 23:23:10 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:ciaran.byrne][error code:49919]
+Mar  8 23:23:10 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [ciaran.byrne]
+Mar  8 23:23:10 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:23:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:23:26 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:23:26 sys320 sshd[110523]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:24:15 sys320 sshd[110625]: Accepted password for ciaran.byrne from 184.171.149.210 port 59089 ssh2
+Mar  8 23:24:15 sys320 sshd[110625]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:24:15 sys320 sshd[110625]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:24:16 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  8 23:24:16 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:ciaran.byrne][error code:49919]
+Mar  8 23:24:16 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [ciaran.byrne]
+Mar  8 23:24:16 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:24:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:24:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /etc/passwd
+Mar  8 23:24:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:24:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:24:33 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:24:33 sys320 sshd[110625]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:24:36 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/su
+Mar  8 23:24:36 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:24:36 sys320 su: (to root) ciaran.byrne on pts/0
+Mar  8 23:24:36 sys320 su: pam_unix(su:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:24:36 sys320 systemd-logind[725]: New session 684 of user root.
+Mar  8 23:24:36 sys320 systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Mar  8 23:24:38 sys320 su: pam_unix(su:session): session closed for user root
+Mar  8 23:24:38 sys320 systemd-logind[725]: Session 684 logged out. Waiting for processes to exit.
+Mar  8 23:24:38 sys320 systemd-logind[725]: Removed session 684.
+Mar  8 23:24:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:24:43 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/su ubuntu
+Mar  8 23:24:43 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:24:43 sys320 su: (to ubuntu) ciaran.byrne on pts/0
+Mar  8 23:24:43 sys320 su: pam_unix(su:session): session opened for user ubuntu by ciaran.byrne(uid=0)
+Mar  8 23:24:44 sys320 systemd-logind[725]: New session 684 of user ubuntu.
+Mar  8 23:24:55 sys320 su: pam_unix(su:session): session closed for user ubuntu
+Mar  8 23:24:55 sys320 systemd-logind[725]: Session 684 logged out. Waiting for processes to exit.
+Mar  8 23:24:55 sys320 systemd-logind[725]: Removed session 684.
+Mar  8 23:24:55 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:25:28 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:25:28 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:25:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:25:46 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:25:46 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:25:46 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:25:57 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:25:57 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:25:57 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:29:00 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:29:00 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:29:00 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:29:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /etc/passwd
+Mar  8 23:29:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:29:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:29:34 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:29:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:29:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:30:12 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:30:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:30:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:30:16 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:30:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:30:16 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:30:39 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  8 23:30:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:30:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:33:02 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:33:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:33:02 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:33:14 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:33:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:33:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:35:20 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:35:20 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:35:20 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:35:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:35:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:35:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:37:12 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:37:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:37:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:39:10 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:39:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:39:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:39:10 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /etc/passwd
+Mar  8 23:39:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:39:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:39:10 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:39:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:39:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:42:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:42:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:42:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:42:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:42:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:42:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:42:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:42:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:42:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:42:46 sys320 sshd[110983]: Accepted password for ciaran.byrne from 184.171.149.210 port 57834 ssh2
+Mar  8 23:42:46 sys320 sshd[110983]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:42:46 sys320 sshd[110983]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:42:47 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:42:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:42:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:42:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:42:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:42:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:42:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:42:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:42:54 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:42:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:42:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:43:04 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:43:04 sys320 sshd[110983]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:43:14 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:43:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:43:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:43:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:43:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:43:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:43:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:43:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:43:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:14 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:44:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:44:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:44:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:44:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:44:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:44:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:37 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:44:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:37 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:44:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:37 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof /var/log/auth.log
+Mar  8 23:44:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:44:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:44:47 sys320 sshd[111131]: Accepted password for sebastian.meredith from 192.168.6.73 port 56017 ssh2
+Mar  8 23:44:47 sys320 sshd[111131]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 23:44:47 sys320 sshd[111131]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:44:49 sys320 sshd[111131]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 23:46:04 sys320 sshd[111215]: Accepted password for sebastian.meredith from 192.168.6.73 port 56060 ssh2
+Mar  8 23:46:04 sys320 sshd[111215]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 23:46:04 sys320 sshd[111215]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:46:07 sys320 sshd[111215]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 23:47:04 sys320 sshd[111306]: dispatch_protocol_error: type 90 seq 5 [preauth]
+Mar  8 23:47:13 sys320 sshd[111314]: Accepted password for ciaran.byrne from 184.171.149.210 port 57869 ssh2
+Mar  8 23:47:13 sys320 sshd[111314]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:47:13 sys320 sshd[111314]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:47:15 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:47:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:47:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:47:32 sys320 sshd[111314]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:48:00 sys320 sshd[111413]: Accepted password for sebastian.meredith from 192.168.6.73 port 56120 ssh2
+Mar  8 23:48:00 sys320 sshd[111413]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 23:48:00 sys320 sshd[111413]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:48:01 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:48:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:48:01 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:48:01 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:48:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:48:01 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:48:01 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 23:48:01 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:48:01 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:49:16 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:49:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:49:16 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:49:16 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:49:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:49:16 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:49:16 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 23:49:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:49:16 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:51:54 sys320 sshd[111533]: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:ciaran.byrne][error code:40022]
+Mar  8 23:51:54 sys320 sshd[111533]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=184.171.149.210  user=ciaran.byrne
+Mar  8 23:51:56 sys320 sshd[111533]: Failed password for ciaran.byrne from 184.171.149.210 port 57898 ssh2
+Mar  8 23:51:58 sys320 sshd[111533]: dispatch_protocol_error: type 90 seq 5 [preauth]
+Mar  8 23:52:04 sys320 sshd[111533]: Connection closed by authenticating user ciaran.byrne 184.171.149.210 port 57898 [preauth]
+Mar  8 23:52:13 sys320 sshd[111540]: Accepted password for ciaran.byrne from 184.171.149.210 port 57901 ssh2
+Mar  8 23:52:13 sys320 sshd[111540]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:52:13 sys320 sshd[111540]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:52:14 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:52:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:52:31 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:52:31 sys320 sshd[111540]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:52:32 sys320 sshd[111524]: dispatch_protocol_error: type 90 seq 7 [preauth]
+Mar  8 23:54:15 sys320 sshd[111626]: Accepted password for samuel.barrows from 184.171.155.18 port 49665 ssh2
+Mar  8 23:54:15 sys320 sshd[111626]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  8 23:54:15 sys320 sshd[111626]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:54:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:54:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:55:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:55:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 23:55:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:55:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:55:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  8 23:55:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:55:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:55:35 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:55:35 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:55:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:55:51 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 23:55:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:55:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:55:52 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  8 23:55:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:55:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:55:56 sys320 sshd[111749]: Accepted password for ciaran.byrne from 184.171.149.210 port 57947 ssh2
+Mar  8 23:55:56 sys320 sshd[111749]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:55:56 sys320 sshd[111749]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:55:57 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:55:57 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:56:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:56:14 sys320 sshd[111749]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:56:35 sys320 sshd[111833]: Accepted password for ciaran.byrne from 184.171.149.210 port 57951 ssh2
+Mar  8 23:56:35 sys320 sshd[111833]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  8 23:56:35 sys320 sshd[111833]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:56:36 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:56:36 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  8 23:56:48 sys320 sshd[111916]: Accepted password for sebastian.meredith from 192.168.6.73 port 56362 ssh2
+Mar  8 23:56:48 sys320 sshd[111916]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 23:56:48 sys320 sshd[111916]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:56:52 sys320 sshd[111916]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 23:56:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  8 23:56:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:56:57 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:56:57 sys320 sshd[111833]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  8 23:57:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:12 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  8 23:57:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:12 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  8 23:57:12 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:12 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:57:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:57:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:19 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 23:57:19 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:19 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:23 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:57:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:23 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:57:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:57:23 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 23:57:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:57:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:58:00 sys320 sshd[112047]: Accepted password for sebastian.meredith from 192.168.6.73 port 56383 ssh2
+Mar  8 23:58:00 sys320 sshd[112047]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  8 23:58:00 sys320 sshd[112047]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  8 23:58:02 sys320 sshd[112047]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  8 23:59:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  8 23:59:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:59:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:59:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  8 23:59:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:59:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  8 23:59:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  8 23:59:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  8 23:59:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:00:51 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:00:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:00:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:00:51 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:00:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:00:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:00:51 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:00:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:00:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:01:25 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:01:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:01:25 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:01:25 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:01:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:01:25 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:01:25 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:01:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:01:25 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:02:23 sys320 sshd[112211]: Accepted password for ciaran.byrne from 184.171.149.210 port 58055 ssh2
+Mar  9 00:02:23 sys320 sshd[112211]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:02:23 sys320 sshd[112211]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:02:47 sys320 sshd[112211]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  9 00:02:59 sys320 sshd[112294]: Accepted password for ciaran.byrne from 184.171.149.210 port 58098 ssh2
+Mar  9 00:02:59 sys320 sshd[112294]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:02:59 sys320 sshd[112294]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:03:02 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:03:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:03:19 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:03:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:03:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:03:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:03:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:03:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:31 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:04:31 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:31 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:31 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:04:31 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:31 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:31 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:04:31 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:31 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:04:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:04:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:04:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:06:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:06:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:06:06 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:06:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:06:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:06:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:06:07 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:06:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:06:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:06:19 sys320 sshd[112481]: Accepted password for sebastian.meredith from 192.168.6.73 port 57363 ssh2
+Mar  9 00:06:19 sys320 sshd[112481]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:06:19 sys320 sshd[112481]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:06:22 sys320 sshd[112481]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:06:51 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:06:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:07:08 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:07:13 sys320 sshd[112598]: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:samuel.barrows][error code:40022]
+Mar  9 00:07:13 sys320 sshd[112598]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=184.171.155.18  user=samuel.barrows
+Mar  9 00:07:15 sys320 sshd[112596]: error: PAM: Authentication failure for samuel.barrows from 184.171.155.18
+Mar  9 00:07:17 sys320 sshd[112596]: Accepted keyboard-interactive/pam for samuel.barrows from 184.171.155.18 port 49915 ssh2
+Mar  9 00:07:17 sys320 sshd[112596]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  9 00:07:17 sys320 sshd[112596]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:07:30 sys320 sudo: samuel.barrows : TTY=pts/2 ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/su
+Mar  9 00:07:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by samuel.barrows(uid=0)
+Mar  9 00:07:30 sys320 su: (to root) samuel.barrows on pts/2
+Mar  9 00:07:30 sys320 su: pam_unix(su:session): session opened for user root by samuel.barrows(uid=0)
+Mar  9 00:07:30 sys320 systemd-logind[725]: New session 704 of user root.
+Mar  9 00:07:30 sys320 systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Mar  9 00:07:37 sys320 sshd[112741]: Accepted password for sebastian.meredith from 192.168.6.73 port 57402 ssh2
+Mar  9 00:07:37 sys320 sshd[112741]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:07:37 sys320 sshd[112741]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:07:40 sys320 sshd[112741]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:07:55 sys320 su: pam_unix(su:session): session closed for user root
+Mar  9 00:07:55 sys320 systemd-logind[725]: Session 704 logged out. Waiting for processes to exit.
+Mar  9 00:07:55 sys320 systemd-logind[725]: Removed session 704.
+Mar  9 00:07:55 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:07:58 sys320 sshd[112672]: Received disconnect from 184.171.155.18 port 49915:11: disconnected by user
+Mar  9 00:07:58 sys320 sshd[112672]: Disconnected from user samuel.barrows 184.171.155.18 port 49915
+Mar  9 00:07:58 sys320 sshd[112596]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 00:08:18 sys320 sshd[112905]: Accepted password for sebastian.meredith from 192.168.6.73 port 57442 ssh2
+Mar  9 00:08:18 sys320 sshd[112905]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:08:18 sys320 sshd[112905]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:08:21 sys320 sshd[112905]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:08:23 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:08:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:24 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:08:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:24 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:08:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:24 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:08:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:35 sys320 sshd[113015]: Accepted password for ciaran.byrne from 184.171.149.210 port 55904 ssh2
+Mar  9 00:08:35 sys320 sshd[113015]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:08:35 sys320 sshd[113015]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:08:37 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:08:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:08:38 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:08:38 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:38 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:08:38 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:38 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:08:38 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:39 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:08:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:08:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:08:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:08:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:49 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:08:49 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:08:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:08:56 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:13 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:09:13 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:13 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:13 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:09:13 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:13 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:13 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:09:13 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:13 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:14 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:09:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:09:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:09:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:09:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:41 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:09:41 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:41 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:54 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:54 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:54 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:09:54 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:09:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:11:29 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/ps aux
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:11:29 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:11:29 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:11:29 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:11:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:13:39 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:13:39 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:13:39 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:13:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:13:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:13:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:13:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:13:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:13:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:13:40 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:13:40 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:13:40 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:14:35 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:14:35 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:14:35 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:14:35 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:14:35 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:14:56 sys320 sshd[113312]: Accepted password for sebastian.meredith from 192.168.6.73 port 57884 ssh2
+Mar  9 00:14:56 sys320 sshd[113312]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:14:56 sys320 sshd[113312]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:14:58 sys320 sshd[113312]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:15:10 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:15:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:15:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:15:11 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:15:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:15:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:15:11 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:15:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:15:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:15:11 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:15:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:15:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:15:21 sys320 sshd[113420]: Accepted password for ciaran.byrne from 184.171.149.210 port 55923 ssh2
+Mar  9 00:15:21 sys320 sshd[113420]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:15:21 sys320 sshd[113420]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:16:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:16:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:16:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:16:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:16:32 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:16:33 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:16:33 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:16:33 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:16:43 sys320 sshd[113535]: Accepted password for sebastian.meredith from 192.168.6.73 port 58123 ssh2
+Mar  9 00:16:43 sys320 sshd[113535]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:16:43 sys320 sshd[113535]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:16:45 sys320 sshd[113535]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:17:01 sys320 CRON[113619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  9 00:17:01 sys320 CRON[113619]: pam_unix(cron:session): session closed for user root
+Mar  9 00:17:17 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:17:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:17 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:17:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:17:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:18 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:17:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:17:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:17:53 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:01 sys320 sshd[111413]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:18:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:18:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:18:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:18:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:18:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:06 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:18:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:06 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:10 sys320 sshd[113735]: Accepted password for sebastian.meredith from 192.168.6.73 port 58201 ssh2
+Mar  9 00:18:10 sys320 sshd[113735]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:18:10 sys320 sshd[113735]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:18:12 sys320 sshd[113816]: Accepted password for ciaran.byrne from 184.171.149.210 port 55978 ssh2
+Mar  9 00:18:12 sys320 sshd[113816]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:18:12 sys320 sshd[113816]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:18:13 sys320 sshd[113735]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:18:14 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:18:14 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:14 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:18:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:18:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:18:15 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:18:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:18:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:20:04 sys320 sshd[113919]: Accepted password for sebastian.meredith from 192.168.6.73 port 58358 ssh2
+Mar  9 00:20:04 sys320 sshd[113919]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:20:04 sys320 sshd[113919]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:20:07 sys320 sshd[113919]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:20:16 sys320 sshd[113816]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  9 00:20:16 sys320 sshd[113015]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  9 00:20:16 sys320 sshd[113420]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  9 00:20:16 sys320 sshd[112294]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  9 00:20:51 sys320 sshd[114013]: Accepted password for sebastian.meredith from 192.168.6.73 port 58393 ssh2
+Mar  9 00:20:51 sys320 sshd[114013]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:20:51 sys320 sshd[114013]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:20:51 sys320 sshd[114021]: Accepted password for ciaran.byrne from 184.171.149.210 port 55529 ssh2
+Mar  9 00:20:51 sys320 sshd[114021]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:20:51 sys320 sshd[114021]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:20:54 sys320 sshd[114013]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:20:56 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:20:56 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:21:13 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:21:41 sys320 sshd[114190]: Accepted password for sebastian.meredith from 192.168.6.73 port 58450 ssh2
+Mar  9 00:21:41 sys320 sshd[114190]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:21:41 sys320 sshd[114190]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:21:44 sys320 sshd[114190]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:22:10 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:22:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:22:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:22:37 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:22:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:22:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:23:16 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:23:16 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:23:16 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:23:23 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:23:23 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:23:23 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:23:24 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:23:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:23:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:23:24 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:23:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:23:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:23:24 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:23:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:23:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:23:40 sys320 sshd[114316]: Accepted password for john.tiseo from 184.171.150.151 port 56782 ssh2
+Mar  9 00:23:40 sys320 sshd[114316]: pam_unix(sshd:session): session opened for user john.tiseo by (uid=0)
+Mar  9 00:23:40 sys320 sshd[114316]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:24:16 sys320 sshd[114390]: Accepted password for sebastian.meredith from 192.168.6.73 port 58896 ssh2
+Mar  9 00:24:16 sys320 sshd[114390]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:24:16 sys320 sshd[114390]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:24:19 sys320 sshd[114390]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:24:56 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:24:56 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:24:57 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:25:33 sys320 sshd[114497]: Accepted password for sebastian.meredith from 192.168.6.73 port 59004 ssh2
+Mar  9 00:25:33 sys320 sshd[114497]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 00:25:33 sys320 sshd[114497]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:25:36 sys320 sshd[114497]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 00:26:03 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:26:03 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:26:04 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:28 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:26:28 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:26:28 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:37 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:26:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:37 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:26:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:37 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:26:37 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:37 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:38 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:26:38 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:38 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:26:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:26:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:26:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:48 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:26:48 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:26:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:26:59 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:26:59 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:26:59 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:27:31 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:27:31 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:27:48 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:26 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:28:26 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:28:43 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:44 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:28:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:28:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:44 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:28:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:28:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:44 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:28:44 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:28:44 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:55 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:28:55 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:28:55 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:55 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:28:55 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:28:55 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:28:55 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:28:55 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:28:55 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:30:33 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:30:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:30:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:30:34 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:30:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:30:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:30:34 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:30:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:30:34 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:31:16 sys320 sshd[114767]: Accepted keyboard-interactive/pam for samuel.barrows from 184.171.155.18 port 50451 ssh2
+Mar  9 00:31:16 sys320 sshd[114767]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  9 00:31:16 sys320 sshd[114767]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:31:32 sys320 sudo: samuel.barrows : TTY=pts/2 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/su
+Mar  9 00:31:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by samuel.barrows(uid=0)
+Mar  9 00:31:32 sys320 su: (to root) samuel.barrows on pts/2
+Mar  9 00:31:32 sys320 su: pam_unix(su:session): session opened for user root by samuel.barrows(uid=0)
+Mar  9 00:31:32 sys320 systemd-logind[725]: New session 722 of user root.
+Mar  9 00:31:32 sys320 systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Mar  9 00:33:28 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:33:28 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:33:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:33:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:33:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:33:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:33:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:33:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:33:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:33:31 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:33:31 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:33:31 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:33:38 sys320 sudo: ciaran.byrne : TTY=pts/4 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:33:38 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:33:56 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:35:04 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 00:35:04 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:35:04 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:35:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:35:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:35:06 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:35:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:35:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:35:06 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:35:06 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:35:06 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:35:06 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:35:21 sys320 sshd[114021]: pam_unix(sshd:session): session closed for user ciaran.byrne
+Mar  9 00:36:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:36:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:36:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:36:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:36:05 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:36:46 sys320 sshd[115044]: Accepted password for ciaran.byrne from 184.171.149.210 port 65462 ssh2
+Mar  9 00:36:46 sys320 sshd[115044]: pam_unix(sshd:session): session opened for user ciaran.byrne by (uid=0)
+Mar  9 00:36:46 sys320 sshd[115044]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:36:51 sys320 sudo: ciaran.byrne : TTY=pts/4 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:36:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:37:09 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:37:17 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:37:17 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:37:17 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:38:58 sys320 sudo: ciaran.byrne : TTY=pts/3 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:38:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:38:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:40:42 sys320 su: pam_unix(su:session): session closed for user root
+Mar  9 00:40:42 sys320 systemd-logind[725]: Session 722 logged out. Waiting for processes to exit.
+Mar  9 00:40:42 sys320 systemd-logind[725]: Removed session 722.
+Mar  9 00:40:42 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:40:42 sys320 sshd[114850]: Received disconnect from 184.171.155.18 port 50451:11: disconnected by user
+Mar  9 00:40:42 sys320 sshd[114850]: Disconnected from user samuel.barrows 184.171.155.18 port 50451
+Mar  9 00:40:42 sys320 sshd[114767]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 00:41:01 sys320 sshd[115189]: Accepted password for samuel.barrows from 184.171.155.18 port 50632 ssh2
+Mar  9 00:41:01 sys320 sshd[115189]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  9 00:41:01 sys320 sshd[115189]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:41:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:41:05 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:14 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:41:15 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:41:15 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:22 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:22 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:41:22 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:22 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:22 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  9 00:41:22 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:22 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:34 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:41:34 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:41:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:57 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:41:57 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:57 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:58 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:41:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:58 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:41:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:41:58 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:41:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:41:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:44:24 sys320 sudo: samuel.barrows : TTY=pts/2 ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:44:24 sys320 sudo: pam_unix(sudo:session): session opened for user root by samuel.barrows(uid=0)
+Mar  9 00:44:24 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:45:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:45:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:45:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:45:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:45:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:45:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:45:30 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:45:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:45:30 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:45:31 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/mv /home/p.dalton/test-lk/ .
+Mar  9 00:45:31 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:45:31 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:47:52 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:47:52 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:47:52 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:47:52 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/mv /home/p.dalton/test-lk/ .
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:47:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:50:02 sys320 sshd[115189]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 00:50:02 sys320 sshd[108972]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 00:50:02 sys320 sshd[111626]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 00:50:02 sys320 sshd[107272]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 00:50:33 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:50:33 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:50:33 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:51:29 sys320 sudo: ciaran.byrne : TTY=pts/2 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:51:29 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 00:51:29 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:51:51 sys320 sshd[115444]: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:eli.minkoff][error code:40022]
+Mar  9 00:51:51 sys320 sshd[115444]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=184.171.144.168  user=eli.minkoff
+Mar  9 00:51:52 sys320 sshd[115444]: Failed password for eli.minkoff from 184.171.144.168 port 55618 ssh2
+Mar  9 00:52:03 sys320 sshd[115446]: Accepted password for eli.minkoff from 184.171.144.168 port 55620 ssh2
+Mar  9 00:52:03 sys320 sshd[115446]: pam_unix(sshd:session): session opened for user eli.minkoff by (uid=0)
+Mar  9 00:52:03 sys320 sshd[115446]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 00:52:14 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  9 00:52:14 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:eli.minkoff][error code:49919]
+Mar  9 00:52:14 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [eli.minkoff]
+Mar  9 00:52:32 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  9 00:52:32 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:eli.minkoff][error code:49919]
+Mar  9 00:52:32 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [eli.minkoff]
+Mar  9 00:53:08 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 00:53:08 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:53:08 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:53:30 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 00:53:30 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 00:53:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 00:54:18 sys320 sshd[109207]: pam_unix(sshd:session): session closed for user noah.stiles
+Mar  9 00:55:08 sys320 sshd[115446]: pam_unix(sshd:session): session closed for user eli.minkoff
+Mar  9 00:55:08 sys320 sudo: eli.minkoff : TTY=unknown ; PWD=/home/eli.minkoff ; USER=root ; COMMAND=list
+Mar  9 01:02:07 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 1
+Mar  9 01:02:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:02:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:02:07 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 1
+Mar  9 01:02:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:02:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:02:07 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 5
+Mar  9 01:02:07 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:02:07 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:05:02 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 1
+Mar  9 01:05:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:05:02 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:05:02 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 1
+Mar  9 01:05:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:05:02 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:05:02 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 5
+Mar  9 01:05:02 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:05:02 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:05:47 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 1
+Mar  9 01:05:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:05:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:05:47 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 1
+Mar  9 01:05:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:05:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:05:47 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 5
+Mar  9 01:05:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:05:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:06:54 sys320 sshd[115641]: Accepted password for noah.stiles from 192.168.6.72 port 49970 ssh2
+Mar  9 01:06:54 sys320 sshd[115641]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  9 01:06:54 sys320 sshd[115641]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:07:54 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 01:07:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:08:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:08:25 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p[]
+Mar  9 01:08:25 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:08:25 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:08:43 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p[]
+Mar  9 01:08:43 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:08:43 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:11:18 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 2
+Mar  9 01:11:18 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:11:18 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:11:19 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 5
+Mar  9 01:11:19 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:11:19 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:11:57 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 01:11:57 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:11:57 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:11:58 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  9 01:11:58 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:11:58 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:12:36 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 01:12:36 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:12:36 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:12:36 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  9 01:12:36 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:12:36 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:17:01 sys320 CRON[116190]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  9 01:17:01 sys320 CRON[116190]: pam_unix(cron:session): session closed for user root
+Mar  9 01:17:11 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof
+Mar  9 01:17:11 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 01:17:11 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:18:37 sys320 sshd[116208]: Accepted password for sebastian.meredith from 192.168.6.73 port 61078 ssh2
+Mar  9 01:18:37 sys320 sshd[116208]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 01:18:37 sys320 sshd[116208]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:18:39 sys320 sshd[116208]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 01:19:28 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/su
+Mar  9 01:19:28 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 01:19:29 sys320 su: (to root) ciaran.byrne on pts/0
+Mar  9 01:19:29 sys320 su: pam_unix(su:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 01:19:29 sys320 systemd-logind[725]: New session 684 of user root.
+Mar  9 01:19:29 sys320 systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Mar  9 01:20:20 sys320 su: pam_unix(su:session): session closed for user root
+Mar  9 01:20:20 sys320 systemd-logind[725]: Session 684 logged out. Waiting for processes to exit.
+Mar  9 01:20:20 sys320 systemd-logind[725]: Removed session 684.
+Mar  9 01:20:20 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:20:32 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=./kraken --folder /usr/bin --folder --folder /usr/sbin/ --folder /usr/local/bin --folder /sbin --folder /usr/local/sbin --folder /bin
+Mar  9 01:20:32 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:20:49 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:21:10 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 01:21:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:21:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:21:10 sys320 sudo: ciaran.byrne : TTY=unknown ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 25680
+Mar  9 01:21:10 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:21:10 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:21:51 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 01:21:51 sys320 sudo: pam_unix(sudo:session): session opened for user root by ciaran.byrne(uid=0)
+Mar  9 01:21:51 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:21:58 sys320 sshd[116454]: Accepted password for sebastian.meredith from 192.168.6.73 port 61171 ssh2
+Mar  9 01:21:58 sys320 sshd[116454]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 01:21:58 sys320 sshd[116454]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:22:01 sys320 sshd[116454]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 01:25:24 sys320 sshd[116552]: Accepted password for sebastian.meredith from 192.168.6.73 port 61260 ssh2
+Mar  9 01:25:24 sys320 sshd[116552]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 01:25:24 sys320 sshd[116552]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:25:27 sys320 sshd[116552]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 01:25:29 sys320 sshd[116641]: Accepted keyboard-interactive/pam for samuel.barrows from 184.171.155.18 port 10363 ssh2
+Mar  9 01:25:30 sys320 sshd[116641]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  9 01:25:30 sys320 sshd[116641]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:25:55 sys320 sudo: [lsass-pam] [module:pam_lsass]LsaPamGetCurrentPassword failed [error code: 49919]
+Mar  9 01:25:55 sys320 sudo: [lsass-pam] [module:pam_lsass]pam_sm_authenticate error [login:samuel.barrows][error code:49919]
+Mar  9 01:25:55 sys320 sudo: pam_unix(sudo:auth): auth could not identify password for [samuel.barrows]
+Mar  9 01:25:56 sys320 sshd[116721]: Received disconnect from 184.171.155.18 port 10363:11: disconnected by user
+Mar  9 01:25:56 sys320 sshd[116721]: Disconnected from user samuel.barrows 184.171.155.18 port 10363
+Mar  9 01:25:56 sys320 sshd[116641]: pam_unix(sshd:session): session closed for user samuel.barrows
+Mar  9 01:29:29 sys320 sshd[116757]: Accepted password for sebastian.meredith from 192.168.6.73 port 61383 ssh2
+Mar  9 01:29:29 sys320 sshd[116757]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 01:29:29 sys320 sshd[116757]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:29:32 sys320 sshd[116757]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 01:29:40 sys320 sshd[116849]: Accepted password for samuel.barrows from 184.171.158.154 port 51395 ssh2
+Mar  9 01:29:40 sys320 sshd[116849]: pam_unix(sshd:session): session opened for user samuel.barrows by (uid=0)
+Mar  9 01:29:40 sys320 sshd[116849]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:29:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/lsof -p 3138
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:29:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /etc/passwd
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:29:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/cat /var/log/auth.log
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:29:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/mv test-lk /home/p.dalton/test-lk
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:29:47 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:30:51 sys320 sshd[116945]: Accepted password for sebastian.meredith from 192.168.6.73 port 61415 ssh2
+Mar  9 01:30:51 sys320 sshd[116945]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 01:30:51 sys320 sshd[116945]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:30:54 sys320 sshd[116945]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 01:35:47 sys320 sshd[117049]: Accepted password for sebastian.meredith from 192.168.6.73 port 61585 ssh2
+Mar  9 01:35:47 sys320 sshd[117049]: pam_unix(sshd:session): session opened for user sebastian.meredith by (uid=0)
+Mar  9 01:35:47 sys320 sshd[117049]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:35:51 sys320 sshd[117049]: pam_unix(sshd:session): session closed for user sebastian.meredith
+Mar  9 01:43:34 sys320 sshd[117160]: Accepted password for noah.stiles from 192.168.6.72 port 50138 ssh2
+Mar  9 01:43:34 sys320 sshd[117160]: pam_unix(sshd:session): session opened for user noah.stiles by (uid=0)
+Mar  9 01:43:34 sys320 sshd[117160]: pam_systemd(sshd:session): Failed to create session: No such process
+Mar  9 01:44:52 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/lsof -p[]
+Mar  9 01:44:52 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:44:52 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:44:54 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /etc/passwd /home/noah.stiles/noah.stiles.passwd.txt
+Mar  9 01:44:54 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Mar  9 01:44:54 sys320 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 01:44:55 sys320 sudo: noah.stiles : TTY=unknown ; PWD=/home/noah.stiles ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/noah.stiles/auth.log
+Mar  9 01:44:55 sys320 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
