@@ -1,0 +1,422 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Audits\Commercial_audit_checklist_tool.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Audits","Commercial_audit_checklist_tool.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Audits\Commercial_audit_checklist_tool.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Commercial_audit_checklist_tool","System.Collections.Generic.List`1[System.String]",,"Commercial_audit_checklist_tool.xlsx","221129","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Audits","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Audits","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Audits\Commercial_audit_checklist_tool.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:27 PM","4/21/2022 5:42:27 PM","7/14/2016 9:54:45 AM","7/14/2016 1:54:45 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","DoD_Master_Office_2010_Settings_v1.0.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DoD_Master_Office_2010_Settings_v1.0","System.Collections.Generic.List`1[System.String]",,"DoD_Master_Office_2010_Settings_v1.0.xlsx","319973","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:27 PM","4/21/2022 5:42:27 PM","7/14/2016 12:02:54 PM","7/14/2016 4:02:54 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","Microsoft Office 2010 Service Pack 1 Changes.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft Office 2010 Service Pack 1 Changes","System.Collections.Generic.List`1[System.String]",,"Microsoft Office 2010 Service Pack 1 Changes.xlsx","40225","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:27 PM","4/21/2022 5:42:27 PM","7/14/2016 12:02:26 PM","7/14/2016 4:02:26 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","thoughtfarmer-intranet-content-migration-worksheet.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","thoughtfarmer-intranet-content-migration-worksheet","System.Collections.Generic.List`1[System.String]",,"thoughtfarmer-intranet-content-migration-worksheet.xlsx","30931","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:27 PM","4/21/2022 5:42:27 PM","7/14/2016 12:02:35 PM","7/14/2016 4:02:35 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\CoverLetters\the-cover-letter.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\CoverLetters","the-cover-letter.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\CoverLetters\the-cover-letter.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","the-cover-letter","System.Collections.Generic.List`1[System.String]",,"the-cover-letter.docx","22892","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\CoverLetters","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\CoverLetters","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\CoverLetters\the-cover-letter.docx",".docx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:27 PM","4/21/2022 5:42:27 PM","1/22/2017 9:22:39 PM","1/23/2017 2:22:39 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","3yr-Project-Financial-Report-Template.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","3yr-Project-Financial-Report-Template","System.Collections.Generic.List`1[System.String]",,"3yr-Project-Financial-Report-Template.xlsx","145129","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:27 PM","4/21/2022 5:42:27 PM","1/22/2017 8:02:24 PM","1/23/2017 1:02:24 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","82808-Annual Report Financial Overview Template and Graphs.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","82808-Annual Report Financial Overview Template and Graphs","System.Collections.Generic.List`1[System.String]",,"82808-Annual Report Financial Overview Template and Graphs.xlsx","3079772","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:26 PM","4/21/2022 5:42:26 PM","1/22/2017 8:02:41 PM","1/23/2017 1:02:41 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","FinancialStatementFY12Q2.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","FinancialStatementFY12Q2","System.Collections.Generic.List`1[System.String]",,"FinancialStatementFY12Q2.xlsx","78249","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx",".xlsx","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/21/2022 1:42:18 PM","4/21/2022 5:42:18 PM","7/14/2016 12:02:21 PM","7/14/2016 4:02:21 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","GPAF IMP 067 Annual Financial Report 300414.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","GPAF IMP 067 Annual Financial Report 300414","System.Collections.Generic.List`1[System.String]",,"GPAF IMP 067 Annual Financial Report 300414.xlsx","184360","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx",".xlsx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:18 PM","4/21/2022 5:42:18 PM","1/22/2017 8:03:25 PM","1/23/2017 1:03:25 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","SBR FY 2016 Annual Report Template 7-21-16 Final","System.Collections.Generic.List`1[System.String]",,"SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","47716","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx",".xlsx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:18 PM","4/21/2022 5:42:18 PM","1/22/2017 8:02:22 PM","1/23/2017 1:02:22 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\2010AdoptedScienceStandards.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","2010AdoptedScienceStandards.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\2010AdoptedScienceStandards.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","2010AdoptedScienceStandards","System.Collections.Generic.List`1[System.String]",,"2010AdoptedScienceStandards.pdf","528847","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\2010AdoptedScienceStandards.pdf",".pdf","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:18 PM","4/21/2022 5:42:18 PM","7/14/2016 9:53:04 AM","7/14/2016 1:53:04 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\cle-other-science.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","cle-other-science.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\cle-other-science.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cle-other-science","System.Collections.Generic.List`1[System.String]",,"cle-other-science.pdf","491735","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\cle-other-science.pdf",".pdf","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:15 PM","4/21/2022 5:42:15 PM","7/14/2016 9:52:44 AM","7/14/2016 1:52:44 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","K-12_Science_Performance_Expectations_v5_496901_7.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","K-12_Science_Performance_Expectations_v5_496901_7","System.Collections.Generic.List`1[System.String]",,"K-12_Science_Performance_Expectations_v5_496901_7.pdf","1017137","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf",".pdf","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:14 PM","4/21/2022 5:42:14 PM","7/14/2016 9:52:53 AM","7/14/2016 1:52:53 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\nssmic15.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","nssmic15.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\nssmic15.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","nssmic15","System.Collections.Generic.List`1[System.String]",,"nssmic15.docx","71009","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\nssmic15.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:10 PM","4/21/2022 5:42:10 PM","7/14/2016 12:02:03 PM","7/14/2016 4:02:03 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014","System.Collections.Generic.List`1[System.String]",,"South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","1167470","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf",".pdf","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:09 PM","4/21/2022 5:42:09 PM","7/14/2016 10:46:10 AM","7/14/2016 2:46:10 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\stds_scienceKinder.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","stds_scienceKinder.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\stds_scienceKinder.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","stds_scienceKinder","System.Collections.Generic.List`1[System.String]",,"stds_scienceKinder.pdf","61430","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Sciences\stds_scienceKinder.pdf",".pdf","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 9:49:37 AM","7/14/2016 1:49:37 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\APA-Citation-Work-Cited1.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","APA-Citation-Work-Cited1.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\APA-Citation-Work-Cited1.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","APA-Citation-Work-Cited1","System.Collections.Generic.List`1[System.String]",,"APA-Citation-Work-Cited1.docx","49920","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\APA-Citation-Work-Cited1.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 12:01:45 PM","7/14/2016 4:01:45 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Index_Table_Contents.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","Index_Table_Contents.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Index_Table_Contents.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Index_Table_Contents","System.Collections.Generic.List`1[System.String]",,"Index_Table_Contents.xlsx","60765","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Index_Table_Contents.xlsx",".xlsx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 10:47:04 AM","7/14/2016 2:47:04 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","Microsoft-Word-Trifold-Brochure-Template.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft-Word-Trifold-Brochure-Template","System.Collections.Generic.List`1[System.String]",,"Microsoft-Word-Trifold-Brochure-Template.docx","79583","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 12:01:47 PM","7/14/2016 4:01:47 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\NYCProject-RACI_v2.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","NYCProject-RACI_v2.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\NYCProject-RACI_v2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","NYCProject-RACI_v2","System.Collections.Generic.List`1[System.String]",,"NYCProject-RACI_v2.xlsx","37554","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\NYCProject-RACI_v2.xlsx",".xlsx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 12:02:40 PM","7/14/2016 4:02:40 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\rgo_template.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","rgo_template.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\rgo_template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","rgo_template","System.Collections.Generic.List`1[System.String]",,"rgo_template.docx","8362477","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\rgo_template.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 12:01:39 PM","7/14/2016 4:01:39 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Template File_MLA Template.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","Template File_MLA Template.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Template File_MLA Template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Template File_MLA Template","System.Collections.Generic.List`1[System.String]",,"Template File_MLA Template.docx","20574","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Template File_MLA Template.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 12:00:58 PM","7/14/2016 4:00:58 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\template-instructions1.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","template-instructions1.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\template-instructions1.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","template-instructions1","System.Collections.Generic.List`1[System.String]",,"template-instructions1.docx","1278477","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\template-instructions1.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:06 PM","4/21/2022 5:42:06 PM","7/14/2016 12:01:25 PM","7/14/2016 4:01:25 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\trans_jour.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","trans_jour.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\trans_jour.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","trans_jour","System.Collections.Generic.List`1[System.String]",,"trans_jour.docx","519344","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\trans_jour.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:05 PM","4/21/2022 5:42:05 PM","7/14/2016 12:01:21 PM","7/14/2016 4:01:21 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Video.docx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","Video.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Video.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Video","System.Collections.Generic.List`1[System.String]",,"Video.docx","11491","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Video.docx",".docx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:05 PM","4/21/2022 5:42:05 PM","7/14/2016 11:12:20 AM","7/14/2016 3:12:20 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","Windows 10 ADMX spreadsheet.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Windows 10 ADMX spreadsheet","System.Collections.Generic.List`1[System.String]",,"Windows 10 ADMX spreadsheet.xlsx","659768","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx",".xlsx","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:28 PM","4/21/2022 5:42:28 PM","7/14/2016 9:54:56 AM","7/14/2016 1:54:56 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\pg17987.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","pg17987.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\pg17987.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","pg17987","System.Collections.Generic.List`1[System.String]",,"pg17987.txt","65999","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\pg17987.txt",".txt","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:05 PM","4/21/2022 5:42:05 PM","7/14/2016 10:46:34 AM","7/14/2016 2:46:34 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\pg23691.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","pg23691.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\pg23691.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","pg23691","System.Collections.Generic.List`1[System.String]",,"pg23691.txt","692692","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\pg23691.txt",".txt","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:05 PM","4/21/2022 5:42:05 PM","7/14/2016 10:46:40 AM","7/14/2016 2:46:40 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\README.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","README.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\README.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","README","System.Collections.Generic.List`1[System.String]",,"README.txt","5383","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\README.txt",".txt","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:05 PM","4/21/2022 5:42:05 PM","7/14/2016 10:46:45 AM","7/14/2016 2:46:45 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\robots.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","robots.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\robots.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","robots","System.Collections.Generic.List`1[System.String]",,"robots.txt","4146","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments","False","True","C:\Users\noahs\OneDrive\Desktop\Sys_Automation\SYS320-Automation-and-Scripting\Week13\class\Documents\TextDocuments\robots.txt",".txt","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/21/2022 1:42:05 PM","4/21/2022 5:42:05 PM","7/14/2016 12:10:35 PM","7/14/2016 4:10:35 PM","Archive"
